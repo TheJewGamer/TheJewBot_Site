@@ -13,4 +13,5 @@ To use commands use @TheJewGamer [Command Name]
 |----------------|-------------------------------------------------------------------|---------------------------|
 | help           | Need some help?                                                   | @TheJewBot help           |
 | ping           | shows the bot's ping                                              | @TheJewBot ping           |
+| prefix         | shows the prefix for the bot and allows the owner to change it.   | @TheJewBot prefix         |
 | voicequeuesize | shows and allows owner to change the voice queue size for the bot | @TheJewBot voicequeuesize |
