@@ -20,7 +20,7 @@
 
 title: TheJewBot
 description: The best bot
-baseurl: "/TheJewBot" # the subpath of your site, e.g. /blog
+baseurl: "/TheJewBot_Site" # the subpath of your site, e.g. /blog
 url: "https://thejewgamer.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Enable or disable the site search
