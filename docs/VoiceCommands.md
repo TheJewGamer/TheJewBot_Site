@@ -46,6 +46,7 @@ To use commands use @TheJewGamer [Command Name]
 | california     | It can only mean one thing.                                   | @TheJewBot california     |
 | cans           | Not the cans                                                  | @TheJewBot cans           |
 | cant           | So basically I was thinking                                   | @TheJewBot cant           |
+| captain        | I am the captain now                                          | @TheJewBot captain        |
 | car            | That's your car?                                              | @TheJewBot car            |
 | carl           | Carl!                                                         | @TheJewBot carl           |
 | check          | Make sure it does not bounce.                                 | @TheJewBot check          |
@@ -84,10 +85,12 @@ To use commands use @TheJewGamer [Command Name]
 | frankkill      | What are you going to do?                                     | @TheJewBot frankKill      |
 | frankstop      | Stop!                                                         | @TheJewBot frankstop      |
 | free           | Its free...                                                   | @TheJewBot free           |
+| freebird       | Are you forklift certified?                                   | @TheJewBot freebird       |
 | fuckyou        | What me?                                                      | @TheJewBot fuckyou        |
 | funny          | Just for funny                                                | @TheJewBot funny          |
 | gameover       | We're happy about this?                                       | @TheJewBot hello          |
 | gamer          | I cannot talk to you                                          | @TheJewBot gamer          |
+| gamers         | My Gamers                                                     | @TheJewBot gamers         |
 | gayzone        | Not the gay zone                                              | @TheJewBot gayzone        |
 | good           | It's good to be here...                                       | @TheJewBot good           |
 | goodnight      | Thank you                                                     | @TheJewBot goodnight      |
@@ -135,8 +138,10 @@ To use commands use @TheJewGamer [Command Name]
 | men            | Come down here                                                | @TheJewBot men            |
 | mets           | It's not always about the money spiderman.                    | @TheJewBot mets           |
 | milkman        | I am the milkman.                                             | @TheJewBot milkman        |
+| minute         | Just wait a minute                                            | @TheJewBot minute         |
 | mission        | I Tell you this mission is impossible!                        | @TheJewBot mission        |
 | mom            | Who told her mom?                                             | @TheJewBot mom            |
+| more           | More!                                                         | @TheJewBot more           |
 | mug            | What's in the mug?                                            | @TheJewBot love           |
 | nazis          | I hate Illinois...                                            | @TheJewBot nazis          |
 | no             | Nooooo!                                                       | @TheJewBot no             |
@@ -179,6 +184,7 @@ To use commands use @TheJewGamer [Command Name]
 | sickomode      | SCP-682 back at it again.                                     | @TheJewBot sickomode      |
 | simp           | Well look...                                                  | @TheJewBot simp           |
 | source         | Please share your sources                                     | @TheJewBot source         |
+| squad          | What are we?                                                  | @TheJewBot squad          |
 | stop           | STOP!                                                         | @TheJewBot stop           |
 | study          | A new peer-reviewed study                                     | @TheJewBot study          |
 | stutter        | Did I stutter?                                                | @TheJewBot stutter        |
