@@ -109,8 +109,10 @@ To use commands use @TheJewGamer [Command Name]
 | imgay          | What are you?                                                 | @TheJewBot imgay          |
 | inch           | ITS A SOLID ONE INCH!                                         | @TheJewBot inch           |
 | inconvenience  | I applogize                                                   | @TheJewBot inconvenience  |
+| input          | CALM DOWN!                                                    | @TheJewBot input          |
 | jack           | Well go to a different starbucks.                             | @TheJewBot jack           |
 | jams           | Them good jams                                                | @TheJewBot james          |
+| jay            | Hey this is Jay Leno                                          | @TheJewBot jay            |
 | jellybeans     | Do you like jellybeans                                        | @TheJewBot jellybeans     |
 | jerry          | Jerry I want you to...                                        | @TheJewBot jerry          |
 | johncena       | JOHNCENA!!                                                    | @TheJewBot johncena       |
@@ -128,6 +130,7 @@ To use commands use @TheJewGamer [Command Name]
 | letmein        | What do you want me to do                                     | @TheJewBot letmein        |
 | letsgo         | I say we go. In fact I say Lets Go                            | @TheJewBot letsgo         |
 | like           | What the ladies like                                          | @TheJewBot like           |
+| limp           | Are you waiting?                                              | @TheJewBot limp           |
 | lordofjews     | I SEE YOU                                                     | @TheJewBot lordofjews     |
 | love           | Do you love me?                                               | @TheJewBot love           |
 | lying          | I was lying                                                   | @TheJewBot lying          |
@@ -152,6 +155,7 @@ To use commands use @TheJewGamer [Command Name]
 | oh             | GodDamn                                                       | @TheJewBot oh             |
 | omelet         | Scramble like an egg                                          | @TheJewBot omelet         |
 | one            | You are what?                                                 | @TheJewBot one            |
+| oops           | Sorry about that.                                             | @TheJewBot oops           |
 | open           | Open you up                                                   | @TheJewBot open           |
 | oven           | Fire your oven?                                               | @TheJewBot oven           |
 | paper          | Just a normal piece of paper.                                 | @TheJewBot paper          |
@@ -208,6 +212,7 @@ To use commands use @TheJewGamer [Command Name]
 | war            | He just wanted to see his mom.                                | @TheJewBot war            |
 | warrant        | What's in your house?                                         | @TheJewBot warrant        |
 | weed           | Everyday                                                      | @TheJewBot weed           |
+| welcome        | A new player has joined                                       | @TheJewBot welcome        |
 | wha            | I should kick your fucking ass                                | @TheJewBot wha            |
 | what           | What is that?                                                 | @TheJewBot what           |
 | whatareyou     | What are you?                                                 | @TheJewBot whatareyou     |
@@ -217,6 +222,7 @@ To use commands use @TheJewGamer [Command Name]
 | winning        | Are you winning?                                              | @TheJewBot winning        |
 | witness        | Is that camera on?                                            | @TheJewBot witness        |
 | women          | yaaeg                                                         | @TheJewBot women          |
+| wonderwoman    | Are you a woman?                                              | @TheJewBot wonderwoman    |
 | wooo           | That is what is its all about                                 | @TheJewBot wooo           |
 | write          | You are gonna need to write that down.                        | @TheJewBot write          |
 | yeet           | YEET                                                          | @TheJewBot yeet           |
