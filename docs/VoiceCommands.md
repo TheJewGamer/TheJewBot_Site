@@ -16,6 +16,7 @@ To use commands use @TheJewGamer [Command Name]
 | afraid         | You are afraid                                                | @TheJewBot afraid         |
 | air            | Thank you for flying with us.                                 | @TheJewBot air            |
 | andrew         | I don't like that guy.                                        | @TheJewBot andrew         |
+| anime          | New anime plot                                                | @TheJewBot anime          |
 | austin         | It was me all along                                           | @TheJewBot austin         |
 | bababooey      | Um excuse me?                                                 | @TheJewBot bababooey      |
 | baby           | Yaaaa baby                                                    | @TheJewBot baby           |
@@ -134,6 +135,7 @@ To use commands use @TheJewGamer [Command Name]
 | lordofjews     | I SEE YOU                                                     | @TheJewBot lordofjews     |
 | love           | Do you love me?                                               | @TheJewBot love           |
 | lying          | I was lying                                                   | @TheJewBot lying          |
+| math           | Math is no match                                              | @TheJewBot math           |
 | mayo           | It is on what?                                                | @TheJewBot mayo           |
 | me             | Who is it gonna be?                                           | @TheJewBot me             |
 | megagay        | To the zone                                                   | @TheJewBot megagay        |
@@ -147,6 +149,7 @@ To use commands use @TheJewGamer [Command Name]
 | more           | More!                                                         | @TheJewBot more           |
 | mug            | What's in the mug?                                            | @TheJewBot love           |
 | nazis          | I hate Illinois...                                            | @TheJewBot nazis          |
+| neighbors      | Hello my neighbors                                            | @TheJewBot neighbors      |
 | no             | Nooooo!                                                       | @TheJewBot no             |
 | nofuck         | No one gives a fuck...                                        | @TheJewBot nofuck         |
 | not            | Why not?                                                      | @TheJewBot not            |
@@ -204,6 +207,7 @@ To use commands use @TheJewGamer [Command Name]
 | unacceptable   | Lemonhead is not happy                                        | @TheJewBot unacceptable   |
 | understand     | Allow me to put this into words you will understand.          | @TheJewBot understand     |
 | uno            | YOU HAVE UNO!                                                 | @TheJewBot uno            |
+| violence       | I am opposed to violence                                      | @TheJewBot violence       |
 | voicemail      | The mailbox is full                                           | @TheJewBot voicemail      |
 | waan           | Who are you?                                                  | @TheJewBot waan           |
 | wait           | Just hold on a minute                                         | @TheJewBot wait           |
