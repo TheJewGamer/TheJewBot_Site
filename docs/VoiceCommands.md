@@ -15,6 +15,7 @@ To use commands use @TheJewGamer [Command Name]
 | ac130          | ENEMY A130 ABOVE!                                             | @TheJewBot ac130          |
 | afraid         | You are afraid                                                | @TheJewBot afraid         |
 | air            | Thank you for flying with us.                                 | @TheJewBot air            |
+| amazing        | Amazing.                                                      | @TheJewBot amazing        |
 | andrew         | I don't like that guy.                                        | @TheJewBot andrew         |
 | anime          | New anime plot                                                | @TheJewBot anime          |
 | austin         | It was me all along                                           | @TheJewBot austin         |
@@ -83,10 +84,12 @@ To use commands use @TheJewGamer [Command Name]
 | fbi            | OPEN UP                                                       | @TheJewBot fbi            |
 | fbidisco       | OPEN UP but its at a disco.                                   | @TheJewBot fbidisco       |
 | floor          | The floor just cracked...                                     | @TheJewBot floor          |
+| forfeit        | Forfeit now.                                                  | @TheJewBot forfeit        |
 | frankkill      | What are you going to do?                                     | @TheJewBot frankKill      |
 | frankstop      | Stop!                                                         | @TheJewBot frankstop      |
 | free           | Its free...                                                   | @TheJewBot free           |
 | freebird       | Are you forklift certified?                                   | @TheJewBot freebird       |
+| fuckedup       | Mama you fucked up.                                           | @TheJewBot fuckedup       |
 | fuckyou        | What me?                                                      | @TheJewBot fuckyou        |
 | funny          | Just for funny                                                | @TheJewBot funny          |
 | gameover       | We're happy about this?                                       | @TheJewBot hello          |
@@ -184,6 +187,7 @@ To use commands use @TheJewGamer [Command Name]
 | safe           | Do you feel safe?                                             | @TheJewBot safe           |
 | sandwich       | What do you have after you take everything off of a sandwich? | @TheJewBot sandwich       |
 | scottish       | What are you supposed to be?                                  | @TheJewBot scottish       |
+| second         | Second Place                                                  | @TheJewBot second         |
 | she            | My bad                                                        | @TheJewBot she            |
 | ship           | F**K it just ship it.                                         | @TheJewBot ship           |
 | shit           | oooooooo no one gives a shit                                  | @TheJewBot shit           |
@@ -207,6 +211,7 @@ To use commands use @TheJewGamer [Command Name]
 | unacceptable   | Lemonhead is not happy                                        | @TheJewBot unacceptable   |
 | understand     | Allow me to put this into words you will understand.          | @TheJewBot understand     |
 | uno            | YOU HAVE UNO!                                                 | @TheJewBot uno            |
+| unrelated      | Completely Unrelated.                                         | @TheJewBot unrelated      |
 | violence       | I am opposed to violence                                      | @TheJewBot violence       |
 | voicemail      | The mailbox is full                                           | @TheJewBot voicemail      |
 | waan           | Who are you?                                                  | @TheJewBot waan           |
@@ -227,6 +232,7 @@ To use commands use @TheJewGamer [Command Name]
 | witness        | Is that camera on?                                            | @TheJewBot witness        |
 | women          | yaaeg                                                         | @TheJewBot women          |
 | wonderwoman    | Are you a woman?                                              | @TheJewBot wonderwoman    |
+| woo            | woo.                                                          | @TheJewBot woo            |
 | wooo           | That is what is its all about                                 | @TheJewBot wooo           |
 | write          | You are gonna need to write that down.                        | @TheJewBot write          |
 | yeet           | YEET                                                          | @TheJewBot yeet           |
