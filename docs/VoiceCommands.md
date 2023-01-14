@@ -9,7 +9,7 @@ To use commands use @TheJewGamer [Command Name]
 > Note do not include the brackets in the command
 {: .label .label-yellow }
 
-| **Name**       | **Description**                                               | **Example**               |
+| Name           | Description                                                   | Example                   |
 |----------------|---------------------------------------------------------------|---------------------------|
 | aaahhh         | aaahhh                                                        | @TheJewBot aaahhh         |
 | ac130          | ENEMY A130 ABOVE!                                             | @TheJewBot ac130          |
@@ -52,6 +52,7 @@ To use commands use @TheJewGamer [Command Name]
 | car            | That's your car?                                              | @TheJewBot car            |
 | carl           | Carl!                                                         | @TheJewBot carl           |
 | check          | Make sure it does not bounce.                                 | @TheJewBot check          |
+| cloaker        | Stupid Drill                                                  | @TheJewBot cloaker        |
 | clock          | Time to clock in                                              | @TheJewBot clock          |
 | clowns         | The clown motel                                               | @TheJewBot clowns         |
 | computer       | I am the computer man.                                        | @TheJewBot computer       |
@@ -83,6 +84,7 @@ To use commands use @TheJewGamer [Command Name]
 | fat            | You fat bald bastard...                                       | @TheJewBot fat            |
 | fbi            | OPEN UP                                                       | @TheJewBot fbi            |
 | fbidisco       | OPEN UP but its at a disco.                                   | @TheJewBot fbidisco       |
+| flint          | Flint Lockwood                                                | @TheJewBot flint          |
 | floor          | The floor just cracked...                                     | @TheJewBot floor          |
 | forfeit        | Forfeit now.                                                  | @TheJewBot forfeit        |
 | frankkill      | What are you going to do?                                     | @TheJewBot frankKill      |
@@ -205,6 +207,7 @@ To use commands use @TheJewGamer [Command Name]
 | survey         | Could you defend yourself?                                    | @TheJewBot survey         |
 | taco           | He does not speak that language                               | @TheJewBot taco           |
 | technology     | You are scared of what?                                       | @TheJewBot technology     |
+| this           | I want to see more                                            | @TheJewBot this           |
 | turndown       | Are you really gonna turn that down?                          | @TheJewBot turndown       |
 | two            | You got what?                                                 | @TheJewBot two            |
 | twofootthree   | I'm gonna get you..                                           | @TheJewBot twofootthree   |
@@ -218,6 +221,7 @@ To use commands use @TheJewGamer [Command Name]
 | wait           | Just hold on a minute                                         | @TheJewBot wait           |
 | walk           | Everyone walk the...                                          | @TheJewBot walk           |
 | walkbois       | walk with who?                                                | @TheJewBot walkbois       |
+| want           | That's what I want                                            | @TheJewBot want           |
 | war            | He just wanted to see his mom.                                | @TheJewBot war            |
 | warrant        | What's in your house?                                         | @TheJewBot warrant        |
 | weed           | Everyday                                                      | @TheJewBot weed           |
