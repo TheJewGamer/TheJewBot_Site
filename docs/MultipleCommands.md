@@ -11,6 +11,5 @@ To use commands use @TheJewGamer [Command Name]
 
 | **Name** | **Description**                              | **Example**                   |
 |----------|----------------------------------------------|-------------------------------|
-| joke     | sends a really bad joke.                     | @TheJewBot joke [joke number] |
 | law      | sends a law of war.                          | @TheJewBot law [law number]   |
 | quote    | sends a random quote from the quote channel. | @TheJewBot quote              |

@@ -18,9 +18,11 @@ To use commands use @TheJewGamer [Command Name]
 | amazing        | Amazing.                                                      | @TheJewBot amazing        |
 | andrew         | I don't like that guy.                                        | @TheJewBot andrew         |
 | anime          | New anime plot                                                | @TheJewBot anime          |
+| ass            | Great Ass.                                                    | @TheJewBot ass            |
 | austin         | It was me all along                                           | @TheJewBot austin         |
 | bababooey      | Um excuse me?                                                 | @TheJewBot bababooey      |
 | baby           | Yaaaa baby                                                    | @TheJewBot baby           |
+| ball           | Grab it.                                                      | @TheJewBot ball           |
 | baltimore      | A message from our friends Big Bill Hell                      | @TheJewBot baltimore      |
 | banana         | Ready to put 2018 behind them also....                        | @TheJewBot banana         |
 | basketball     | Who is Dan                                                    | @TheJewBot basketball     |
@@ -50,11 +52,14 @@ To use commands use @TheJewGamer [Command Name]
 | cant           | So basically I was thinking                                   | @TheJewBot cant           |
 | captain        | I am the captain now                                          | @TheJewBot captain        |
 | car            | That's your car?                                              | @TheJewBot car            |
+| carefully      | Just do it carefully.                                         | @TheJewBot carefully      |
 | carl           | Carl!                                                         | @TheJewBot carl           |
 | check          | Make sure it does not bounce.                                 | @TheJewBot check          |
 | cloaker        | Stupid Drill                                                  | @TheJewBot cloaker        |
 | clock          | Time to clock in                                              | @TheJewBot clock          |
 | clowns         | The clown motel                                               | @TheJewBot clowns         |
+| college        | No one talks to college.                                      | @TheJewBot college        |
+| coming         | You didn't see this coming                                    | @TheJewBot coming         |
 | computer       | I am the computer man.                                        | @TheJewBot computer       |
 | control        | Nothing is under control                                      | @TheJewBot control        |
 | cook           | You got to do the cooking by the book.                        | @TheJewBot cook           |
@@ -68,6 +73,8 @@ To use commands use @TheJewGamer [Command Name]
 | cunt           | Oh dear                                                       | @TheJewBot cunt           |
 | cuss           | Do you kiss your mother with that mouth?                      | @TheJewBot cuss           |
 | depression     | He has what?                                                  | @TheJewBot depression     |
+| dick           | It is also hard                                               | @TheJewBot dick           |
+| did            | He might have stuttered                                       | @TheJewBot did            |
 | disappointment | What are you?                                                 | @TheJewBot disappointment |
 | doc            | Ya doc so as I was sayin...                                   | @TheJewBot doc            |
 | dog            | Robot Dog                                                     | @TheJewBot dog            |
@@ -91,6 +98,7 @@ To use commands use @TheJewGamer [Command Name]
 | frankstop      | Stop!                                                         | @TheJewBot frankstop      |
 | free           | Its free...                                                   | @TheJewBot free           |
 | freebird       | Are you forklift certified?                                   | @TheJewBot freebird       |
+| friends        | Which are you?.                                               | @TheJewBot friends        |
 | fuckedup       | Mama you fucked up.                                           | @TheJewBot fuckedup       |
 | fuckyou        | What me?                                                      | @TheJewBot fuckyou        |
 | funny          | Just for funny                                                | @TheJewBot funny          |
@@ -122,6 +130,7 @@ To use commands use @TheJewGamer [Command Name]
 | jellybeans     | Do you like jellybeans                                        | @TheJewBot jellybeans     |
 | jerry          | Jerry I want you to...                                        | @TheJewBot jerry          |
 | johncena       | JOHNCENA!!                                                    | @TheJewBot johncena       |
+| joke           | It was a joke.                                                | @TheJewBot joke           |
 | joker          | I'm the Joker baby                                            | @TheJewBot joker          |
 | justdoit       | Just DO IT                                                    | @TheJewBot justdoit       |
 | kayne          | Who are you                                                   | @TheJewBot kayne          |
@@ -230,6 +239,7 @@ To use commands use @TheJewGamer [Command Name]
 | what           | What is that?                                                 | @TheJewBot what           |
 | whatareyou     | What are you?                                                 | @TheJewBot whatareyou     |
 | whatcall       | What do you call it?                                          | @TheJewBot whatcall       |
+| which          | No one talks to college.                                      | @TheJewBot college        |
 | who            | Who dat boi?                                                  | @TheJewBot who            |
 | wife           | Let me tell my wife.                                          | @TheJewBot wife           |
 | winning        | Are you winning?                                              | @TheJewBot winning        |
