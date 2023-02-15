@@ -109,6 +109,7 @@ To use commands use @TheJewGamer [Command Name]
 | good           | It's good to be here...                                       | @TheJewBot good           |
 | goodnight      | Thank you                                                     | @TheJewBot goodnight      |
 | got            | Ladies and gentlemen                                          | @TheJewBot got            |
+| gps            | You are a bit sensitive.                                      | @TheJewBot gps            |
 | guestbedroom   | Is this the guest bedroom?                                    | @TheJewBot guestbedroom   |
 | gun            | What you got?                                                 | @TheJewBot gun            |
 | hammer         | Don't Slip                                                    | @TheJewBot hammer         |
@@ -146,6 +147,7 @@ To use commands use @TheJewGamer [Command Name]
 | letsgo         | I say we go. In fact I say Lets Go                            | @TheJewBot letsgo         |
 | like           | What the ladies like                                          | @TheJewBot like           |
 | limp           | Are you waiting?                                              | @TheJewBot limp           |
+| list           | Its not on the list.                                          | @TheJewBot list           |
 | lordofjews     | I SEE YOU                                                     | @TheJewBot lordofjews     |
 | love           | Do you love me?                                               | @TheJewBot love           |
 | lying          | I was lying                                                   | @TheJewBot lying          |
@@ -197,6 +199,7 @@ To use commands use @TheJewGamer [Command Name]
 | rules          | You know the rules                                            | @TheJewBot rules          |
 | safe           | Do you feel safe?                                             | @TheJewBot safe           |
 | sandwich       | What do you have after you take everything off of a sandwich? | @TheJewBot sandwich       |
+| scientist      | You know I am somewhat of a scientist.                        | @TheJewBot scientist      |
 | scottish       | What are you supposed to be?                                  | @TheJewBot scottish       |
 | second         | Second Place                                                  | @TheJewBot second         |
 | she            | My bad                                                        | @TheJewBot she            |
