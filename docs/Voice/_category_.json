@@ -1,0 +1,8 @@
+{
+  "label": "Voice",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Below is table with all voice commands that are currently in the bot. Clicking on the command name in the table or the side bar will bring you that command's specific page."
+  }
+}
