@@ -59,7 +59,7 @@ const config = {
         title: "TheJewBot's Site",
         logo: {
           alt: "TheJewBot's Logo",
-          src: 'img/botIcon.svg',
+          src: 'img/botIcon.png',
         },
         items: [
           {

@@ -17,6 +17,6 @@ To the use the command enter the following text in one of the following channels
  - list of channels where voice commands are allowed
 
 <!-- Would be nice to make this have a typing animation that cycles through alias if any -->
-```jsx title="using the two Command"
+```
 //two
 ```
