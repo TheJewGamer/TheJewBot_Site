@@ -15,7 +15,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://thejewgamer.github.io',
+  url: 'https://thejewgamer.github.io/',
   baseUrl: '/',
   trailingSlash: false,
 
