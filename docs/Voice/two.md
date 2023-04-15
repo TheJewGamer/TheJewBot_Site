@@ -1,22 +1,25 @@
+---
+description: "You got what?"
+tags:
+  - Voice
+---# two
 
-# TWO
-          
 **Name**: two
 
-**Group**: voice
+**Group**: Voice
 
-**Description**: You got Two?
+**Description**: You got what?
 
-**Alias**: if any
-
-**Last Updated**: Date
+**Last Updated**: DATE HERE
 
 ## Using the command
 
-To the use the command enter the following text in one of the following channels: 
- - list of channels where voice commands are allowed
+    //two
 
-<!-- Would be nice to make this have a typing animation that cycles through alias if any -->
-```
-//two
-```
+::::caution Please note that this command and other commands from the **Voice** command group are not allowed in the following channels:
+- the_board
+- attachment-spam
+- bots
+- thejewbot-suggestions
+- quotes
+::::

@@ -63,16 +63,39 @@ const config = {
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar', //TODO Change this ID
+            href: '/docs/games',
+            label: 'Games',
             position: 'left',
-            label: 'Text',
           },
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar', //TODO Change this ID
+            href: '/docs/mention',
+            label: 'Mention',
             position: 'left',
+          },
+          {
+            href: '/docs/mod',
+            label: 'Mod',
+            position: 'left',
+          },
+          {
+            href: '/docs/multiple',
+            label: 'Multiple',
+            position: 'left',
+          },
+          {
+            href: '/docs/text',
+            label: 'Text',
+            position: 'left',
+          },
+          {
+            href: '/docs/utility',
+            label: 'Utility',
+            position: 'left',
+          },
+          {
+            href: '/docs/voice',
             label: 'Voice',
+            position: 'left',
           },
           {
             href: 'https://github.com/TheJewGamer',
