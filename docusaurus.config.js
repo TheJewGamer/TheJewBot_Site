@@ -16,7 +16,7 @@ const config = {
 
   // Set the production url of your site here
   url: 'https://thejewgamer.github.io/',
-  baseUrl: '/',
+  baseUrl: '/TheJewBot_Site/',
   trailingSlash: false,
 
   // GitHub pages deployment config.
