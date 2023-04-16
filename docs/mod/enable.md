@@ -2,7 +2,8 @@
 description: "re-enables commands in a channel"
 tags:
   - Mod
----# enable
+---import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 **Name**: enable
 
@@ -10,16 +11,13 @@ tags:
 
 **Description**: re-enables commands in a channel
 
-**Last Updated**: DATE HERE
+**Last Updated**: 12/31/2022
 
 ## Using the command
 
-    //enable
+### Examples
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot enable [command group]</TabItem><TabItem value='//'>//enable [command group]</TabItem></Tabs>
 
-::::caution Please note that this command and other commands from the **Mod** command group are not allowed in the following channels:
-- the_board
-- attachment-spam
-- bots
-- thejewbot-suggestions
-- quotes
+### You Can't use this Command
+::::warning These command are not allowed to be used by peasants in any channel.
 ::::

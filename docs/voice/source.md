@@ -2,7 +2,8 @@
 description: "Please share your sources"
 tags:
   - Voice
----# source
+---import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 **Name**: source
 
@@ -10,16 +11,18 @@ tags:
 
 **Description**: Please share your sources
 
-**Last Updated**: DATE HERE
+**Last Updated**: 8/29/2022
 
 ## Using the command
 
-    //source
+### Examples
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot source</TabItem><TabItem value='//'>//source</TabItem></Tabs>
 
+### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Voice** command group are not allowed in the following channels:
 - the_board
 - attachment-spam
-- bots
+- games
 - thejewbot-suggestions
 - quotes
 ::::

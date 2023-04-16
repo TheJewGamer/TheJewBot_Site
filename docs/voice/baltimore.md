@@ -2,7 +2,8 @@
 description: "A message from our friends Big Bill Hell"
 tags:
   - Voice
----# baltimore
+---import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 **Name**: baltimore
 
@@ -10,16 +11,18 @@ tags:
 
 **Description**: A message from our friends Big Bill Hell
 
-**Last Updated**: DATE HERE
+**Last Updated**: 2/17/2022
 
 ## Using the command
 
-    //baltimore
+### Examples
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot baltimore</TabItem><TabItem value='//'>//baltimore</TabItem></Tabs>
 
+### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Voice** command group are not allowed in the following channels:
 - the_board
 - attachment-spam
-- bots
+- games
 - thejewbot-suggestions
 - quotes
 ::::

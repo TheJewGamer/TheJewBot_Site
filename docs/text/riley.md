@@ -2,7 +2,8 @@
 description: "Tells you what Riley is."
 tags:
   - Text
----# riley
+---import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 **Name**: riley
 
@@ -10,16 +11,17 @@ tags:
 
 **Description**: Tells you what Riley is.
 
-**Last Updated**: DATE HERE
+**Last Updated**: 11/8/2021
 
 ## Using the command
 
-    //riley
+### Examples
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot riley</TabItem><TabItem value='//'>//riley</TabItem></Tabs>
 
+### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Text** command group are not allowed in the following channels:
-- the_board
-- attachment-spam
 - bots
+- games
 - thejewbot-suggestions
 - quotes
 ::::

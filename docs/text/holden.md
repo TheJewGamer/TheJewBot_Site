@@ -2,7 +2,8 @@
 description: "Huga Buga"
 tags:
   - Text
----# holden
+---import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 **Name**: holden
 
@@ -10,16 +11,17 @@ tags:
 
 **Description**: Huga Buga
 
-**Last Updated**: DATE HERE
+**Last Updated**: 8/9/2021
 
 ## Using the command
 
-    //holden
+### Examples
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot holden</TabItem><TabItem value='//'>//holden</TabItem></Tabs>
 
+### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Text** command group are not allowed in the following channels:
-- the_board
-- attachment-spam
 - bots
+- games
 - thejewbot-suggestions
 - quotes
 ::::

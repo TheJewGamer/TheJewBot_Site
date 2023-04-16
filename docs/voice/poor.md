@@ -2,7 +2,8 @@
 description: "Sorry I forgot that you were poor"
 tags:
   - Voice
----# poor
+---import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 **Name**: poor
 
@@ -10,16 +11,18 @@ tags:
 
 **Description**: Sorry I forgot that you were poor
 
-**Last Updated**: DATE HERE
+**Last Updated**: 3/27/2023
 
 ## Using the command
 
-    //poor
+### Examples
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot poor</TabItem><TabItem value='//'>//poor</TabItem></Tabs>
 
+### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Voice** command group are not allowed in the following channels:
 - the_board
 - attachment-spam
-- bots
+- games
 - thejewbot-suggestions
 - quotes
 ::::

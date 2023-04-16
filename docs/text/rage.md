@@ -2,7 +2,8 @@
 description: "Use if you are raging."
 tags:
   - Text
----# rage
+---import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 **Name**: rage
 
@@ -10,16 +11,17 @@ tags:
 
 **Description**: Use if you are raging.
 
-**Last Updated**: DATE HERE
+**Last Updated**: 11/8/2021
 
 ## Using the command
 
-    //rage
+### Examples
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot rage</TabItem><TabItem value='//'>//rage</TabItem></Tabs>
 
+### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Text** command group are not allowed in the following channels:
-- the_board
-- attachment-spam
 - bots
+- games
 - thejewbot-suggestions
 - quotes
 ::::

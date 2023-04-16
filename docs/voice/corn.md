@@ -2,7 +2,8 @@
 description: "You better try some corn."
 tags:
   - Voice
----# corn
+---import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 **Name**: corn
 
@@ -10,16 +11,18 @@ tags:
 
 **Description**: You better try some corn.
 
-**Last Updated**: DATE HERE
+**Last Updated**: 1/13/2022
 
 ## Using the command
 
-    //corn
+### Examples
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot corn</TabItem><TabItem value='//'>//corn</TabItem></Tabs>
 
+### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Voice** command group are not allowed in the following channels:
 - the_board
 - attachment-spam
-- bots
+- games
 - thejewbot-suggestions
 - quotes
 ::::

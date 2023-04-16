@@ -2,7 +2,8 @@
 description: "The floor just cracked..."
 tags:
   - Voice
----# floor
+---import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 **Name**: floor
 
@@ -10,16 +11,18 @@ tags:
 
 **Description**: The floor just cracked...
 
-**Last Updated**: DATE HERE
+**Last Updated**: 2/3/2022
 
 ## Using the command
 
-    //floor
+### Examples
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot floor</TabItem><TabItem value='//'>//floor</TabItem></Tabs>
 
+### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Voice** command group are not allowed in the following channels:
 - the_board
 - attachment-spam
-- bots
+- games
 - thejewbot-suggestions
 - quotes
 ::::

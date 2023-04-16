@@ -2,7 +2,8 @@
 description: "Which are you?."
 tags:
   - Voice
----# friends
+---import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 **Name**: friends
 
@@ -10,16 +11,18 @@ tags:
 
 **Description**: Which are you?.
 
-**Last Updated**: DATE HERE
+**Last Updated**: 2/5/2023
 
 ## Using the command
 
-    //friends
+### Examples
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot friends</TabItem><TabItem value='//'>//friends</TabItem></Tabs>
 
+### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Voice** command group are not allowed in the following channels:
 - the_board
 - attachment-spam
-- bots
+- games
 - thejewbot-suggestions
 - quotes
 ::::

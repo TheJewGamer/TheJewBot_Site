@@ -2,7 +2,8 @@
 description: "sends a law of war."
 tags:
   - Multiple
----# law
+---import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 **Name**: law
 
@@ -10,16 +11,17 @@ tags:
 
 **Description**: sends a law of war.
 
-**Last Updated**: DATE HERE
+**Last Updated**: 1/20/2022
 
 ## Using the command
 
-    //law
+### Examples
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot law [law number]</TabItem><TabItem value='//'>//law [law number]</TabItem></Tabs>
 
+### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Multiple** command group are not allowed in the following channels:
-- the_board
-- attachment-spam
 - bots
+- games
 - thejewbot-suggestions
 - quotes
 ::::

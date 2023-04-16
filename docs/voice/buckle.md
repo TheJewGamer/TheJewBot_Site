@@ -2,7 +2,8 @@
 description: "Buckle up..."
 tags:
   - Voice
----# buckle
+---import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 **Name**: buckle
 
@@ -10,16 +11,18 @@ tags:
 
 **Description**: Buckle up...
 
-**Last Updated**: DATE HERE
+**Last Updated**: 1/13/2022
 
 ## Using the command
 
-    //buckle
+### Examples
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot buckle</TabItem><TabItem value='//'>//buckle</TabItem></Tabs>
 
+### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Voice** command group are not allowed in the following channels:
 - the_board
 - attachment-spam
-- bots
+- games
 - thejewbot-suggestions
 - quotes
 ::::

@@ -2,7 +2,8 @@
 description: "My bad"
 tags:
   - Voice
----# she
+---import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 **Name**: she
 
@@ -10,16 +11,18 @@ tags:
 
 **Description**: My bad
 
-**Last Updated**: DATE HERE
+**Last Updated**: 1/13/2022
 
 ## Using the command
 
-    //she
+### Examples
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot she</TabItem><TabItem value='//'>//she</TabItem></Tabs>
 
+### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Voice** command group are not allowed in the following channels:
 - the_board
 - attachment-spam
-- bots
+- games
 - thejewbot-suggestions
 - quotes
 ::::

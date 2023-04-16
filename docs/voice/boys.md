@@ -2,7 +2,8 @@
 description: "Shame"
 tags:
   - Voice
----# boys
+---import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 **Name**: boys
 
@@ -10,16 +11,18 @@ tags:
 
 **Description**: Shame
 
-**Last Updated**: DATE HERE
+**Last Updated**: 3/27/2023
 
 ## Using the command
 
-    //boys
+### Examples
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot boys</TabItem><TabItem value='//'>//boys</TabItem></Tabs>
 
+### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Voice** command group are not allowed in the following channels:
 - the_board
 - attachment-spam
-- bots
+- games
 - thejewbot-suggestions
 - quotes
 ::::

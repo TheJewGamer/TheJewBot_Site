@@ -2,7 +2,8 @@
 description: "More!"
 tags:
   - Voice
----# more
+---import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 **Name**: more
 
@@ -10,16 +11,18 @@ tags:
 
 **Description**: More!
 
-**Last Updated**: DATE HERE
+**Last Updated**: 11/20/2022
 
 ## Using the command
 
-    //more
+### Examples
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot more</TabItem><TabItem value='//'>//more</TabItem></Tabs>
 
+### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Voice** command group are not allowed in the following channels:
 - the_board
 - attachment-spam
-- bots
+- games
 - thejewbot-suggestions
 - quotes
 ::::

@@ -2,7 +2,8 @@
 description: "Are you really gonna turn that down?"
 tags:
   - Voice
----# turndown
+---import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 **Name**: turndown
 
@@ -10,16 +11,18 @@ tags:
 
 **Description**: Are you really gonna turn that down?
 
-**Last Updated**: DATE HERE
+**Last Updated**: 9/30/2022
 
 ## Using the command
 
-    //turndown
+### Examples
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot turndown</TabItem><TabItem value='//'>//turndown</TabItem></Tabs>
 
+### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Voice** command group are not allowed in the following channels:
 - the_board
 - attachment-spam
-- bots
+- games
 - thejewbot-suggestions
 - quotes
 ::::

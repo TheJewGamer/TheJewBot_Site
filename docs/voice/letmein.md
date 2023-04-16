@@ -2,7 +2,8 @@
 description: "What do you want me to do"
 tags:
   - Voice
----# letmein
+---import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 **Name**: letmein
 
@@ -10,16 +11,18 @@ tags:
 
 **Description**: What do you want me to do
 
-**Last Updated**: DATE HERE
+**Last Updated**: 1/13/2022
 
 ## Using the command
 
-    //letmein
+### Examples
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot letmein</TabItem><TabItem value='//'>//letmein</TabItem></Tabs>
 
+### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Voice** command group are not allowed in the following channels:
 - the_board
 - attachment-spam
-- bots
+- games
 - thejewbot-suggestions
 - quotes
 ::::

@@ -2,7 +2,8 @@
 description: "Tells you what Juan wants."
 tags:
   - Text
----# juan
+---import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 **Name**: juan
 
@@ -10,16 +11,17 @@ tags:
 
 **Description**: Tells you what Juan wants.
 
-**Last Updated**: DATE HERE
+**Last Updated**: 11/14/2021
 
 ## Using the command
 
-    //juan
+### Examples
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot juan</TabItem><TabItem value='//'>//juan</TabItem></Tabs>
 
+### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Text** command group are not allowed in the following channels:
-- the_board
-- attachment-spam
 - bots
+- games
 - thejewbot-suggestions
 - quotes
 ::::

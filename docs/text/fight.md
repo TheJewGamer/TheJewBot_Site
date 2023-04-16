@@ -2,7 +2,8 @@
 description: "Trying to start a fight with the bot?"
 tags:
   - Text
----# fight
+---import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 **Name**: fight
 
@@ -10,16 +11,17 @@ tags:
 
 **Description**: Trying to start a fight with the bot?
 
-**Last Updated**: DATE HERE
+**Last Updated**: 11/8/2021
 
 ## Using the command
 
-    //fight
+### Examples
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot fight</TabItem><TabItem value='//'>//fight</TabItem></Tabs>
 
+### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Text** command group are not allowed in the following channels:
-- the_board
-- attachment-spam
 - bots
+- games
 - thejewbot-suggestions
 - quotes
 ::::

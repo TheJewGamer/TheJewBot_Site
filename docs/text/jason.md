@@ -2,7 +2,8 @@
 description: "He is always with us, even when we do not expect it."
 tags:
   - Text
----# jason
+---import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 **Name**: jason
 
@@ -10,16 +11,17 @@ tags:
 
 **Description**: He is always with us, even when we do not expect it.
 
-**Last Updated**: DATE HERE
+**Last Updated**: 11/8/2021
 
 ## Using the command
 
-    //jason
+### Examples
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot jason</TabItem><TabItem value='//'>//jason</TabItem></Tabs>
 
+### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Text** command group are not allowed in the following channels:
-- the_board
-- attachment-spam
 - bots
+- games
 - thejewbot-suggestions
 - quotes
 ::::

@@ -2,7 +2,8 @@
 description: "AMONG US"
 tags:
   - Mention
----# vote
+---import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 **Name**: vote
 
@@ -10,16 +11,18 @@ tags:
 
 **Description**: AMONG US
 
-**Last Updated**: DATE HERE
+**Last Updated**: 1/22/2022
 
 ## Using the command
 
-    //vote
+### Examples
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot vote [user]</TabItem><TabItem value='//'>//vote [user]</TabItem></Tabs>
 
+### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Mention** command group are not allowed in the following channels:
-- the_board
 - attachment-spam
 - bots
+- games
 - thejewbot-suggestions
 - quotes
 ::::

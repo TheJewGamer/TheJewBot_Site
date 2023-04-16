@@ -2,7 +2,8 @@
 description: "shows the prefix for the bot and allows the owner to change it."
 tags:
   - Utility
----# prefix
+---import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 **Name**: prefix
 
@@ -10,12 +11,14 @@ tags:
 
 **Description**: shows the prefix for the bot and allows the owner to change it.
 
-**Last Updated**: DATE HERE
+**Last Updated**: 5/15/2022
 
 ## Using the command
 
-    //prefix
+### Examples
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot prefix</TabItem><TabItem value='//'>//prefix</TabItem></Tabs>
 
+### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Utility** command group are not allowed in the following channels:
 - the_board
 - attachment-spam

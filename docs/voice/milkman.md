@@ -2,7 +2,8 @@
 description: "I am the milkman."
 tags:
   - Voice
----# milkman
+---import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 **Name**: milkman
 
@@ -10,16 +11,18 @@ tags:
 
 **Description**: I am the milkman.
 
-**Last Updated**: DATE HERE
+**Last Updated**: 1/13/2022
 
 ## Using the command
 
-    //milkman
+### Examples
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot milkman</TabItem><TabItem value='//'>//milkman</TabItem></Tabs>
 
+### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Voice** command group are not allowed in the following channels:
 - the_board
 - attachment-spam
-- bots
+- games
 - thejewbot-suggestions
 - quotes
 ::::

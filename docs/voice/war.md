@@ -2,7 +2,8 @@
 description: "He just wanted to see his mom."
 tags:
   - Voice
----# war
+---import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 **Name**: war
 
@@ -10,16 +11,18 @@ tags:
 
 **Description**: He just wanted to see his mom.
 
-**Last Updated**: DATE HERE
+**Last Updated**: 1/23/2022
 
 ## Using the command
 
-    //war
+### Examples
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot war</TabItem><TabItem value='//'>//war</TabItem></Tabs>
 
+### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Voice** command group are not allowed in the following channels:
 - the_board
 - attachment-spam
-- bots
+- games
 - thejewbot-suggestions
 - quotes
 ::::

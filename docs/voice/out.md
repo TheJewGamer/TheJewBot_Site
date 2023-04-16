@@ -2,7 +2,8 @@
 description: "Get out of here"
 tags:
   - Voice
----# out
+---import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 **Name**: out
 
@@ -10,16 +11,18 @@ tags:
 
 **Description**: Get out of here
 
-**Last Updated**: DATE HERE
+**Last Updated**: 4/2/2022
 
 ## Using the command
 
-    //out
+### Examples
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot out</TabItem><TabItem value='//'>//out</TabItem></Tabs>
 
+### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Voice** command group are not allowed in the following channels:
 - the_board
 - attachment-spam
-- bots
+- games
 - thejewbot-suggestions
 - quotes
 ::::

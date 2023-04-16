@@ -104,12 +104,15 @@ const config = {
         ],
       },
       footer: {
-        style: 'dark',
         copyright: `Copyright © ${new Date().getFullYear()} TheJewBot's Site. Built by TheJewGamer.`,
       },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+      },
+      colorMode: {
+        disableSwitch: false,
+        respectPrefersColorScheme: true,
       },
     }),
 };

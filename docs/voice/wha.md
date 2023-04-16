@@ -2,7 +2,8 @@
 description: "I should kick your fucking ass"
 tags:
   - Voice
----# wha
+---import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 **Name**: wha
 
@@ -10,16 +11,18 @@ tags:
 
 **Description**: I should kick your fucking ass
 
-**Last Updated**: DATE HERE
+**Last Updated**: 4/24/2022
 
 ## Using the command
 
-    //wha
+### Examples
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot wha</TabItem><TabItem value='//'>//wha</TabItem></Tabs>
 
+### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Voice** command group are not allowed in the following channels:
 - the_board
 - attachment-spam
-- bots
+- games
 - thejewbot-suggestions
 - quotes
 ::::

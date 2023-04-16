@@ -2,7 +2,8 @@
 description: "Builds the quotes list"
 tags:
   - Mod
----# buildquotes
+---import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 **Name**: buildquotes
 
@@ -12,16 +13,17 @@ tags:
 
 **Alias**: buildq
 
-**Last Updated**: DATE HERE
+**Last Updated**: 12/4/2022
 
 ## Using the command
 
-    //buildquotes
 
-::::caution Please note that this command and other commands from the **Mod** command group are not allowed in the following channels:
-- the_board
-- attachment-spam
-- bots
-- thejewbot-suggestions
-- quotes
+
+::::tip
+This command has an alias which can be used instead of the default command name. To use an alias enter the command as you would normally but replace the command name with the alias of this command.
+::::### Examples
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot buildquotes</TabItem><TabItem value='//'>//buildquotes</TabItem></Tabs>
+
+### You Can't use this Command
+::::warning These command are not allowed to be used by peasants in any channel.
 ::::

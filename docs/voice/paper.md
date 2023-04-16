@@ -2,7 +2,8 @@
 description: "Just a normal piece of paper."
 tags:
   - Voice
----# paper
+---import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 **Name**: paper
 
@@ -10,16 +11,18 @@ tags:
 
 **Description**: Just a normal piece of paper.
 
-**Last Updated**: DATE HERE
+**Last Updated**: 2/17/2022
 
 ## Using the command
 
-    //paper
+### Examples
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot paper</TabItem><TabItem value='//'>//paper</TabItem></Tabs>
 
+### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Voice** command group are not allowed in the following channels:
 - the_board
 - attachment-spam
-- bots
+- games
 - thejewbot-suggestions
 - quotes
 ::::

@@ -2,7 +2,8 @@
 description: "Look book"
 tags:
   - Voice
----# yep
+---import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 **Name**: yep
 
@@ -10,16 +11,18 @@ tags:
 
 **Description**: Look book
 
-**Last Updated**: DATE HERE
+**Last Updated**: 9/4/2022
 
 ## Using the command
 
-    //yep
+### Examples
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot yep</TabItem><TabItem value='//'>//yep</TabItem></Tabs>
 
+### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Voice** command group are not allowed in the following channels:
 - the_board
 - attachment-spam
-- bots
+- games
 - thejewbot-suggestions
 - quotes
 ::::

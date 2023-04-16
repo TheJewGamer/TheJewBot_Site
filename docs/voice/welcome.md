@@ -2,7 +2,8 @@
 description: "A new player has joined"
 tags:
   - Voice
----# welcome
+---import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 **Name**: welcome
 
@@ -10,16 +11,18 @@ tags:
 
 **Description**: A new player has joined
 
-**Last Updated**: DATE HERE
+**Last Updated**: 12/25/2022
 
 ## Using the command
 
-    //welcome
+### Examples
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot welcome</TabItem><TabItem value='//'>//welcome</TabItem></Tabs>
 
+### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Voice** command group are not allowed in the following channels:
 - the_board
 - attachment-spam
-- bots
+- games
 - thejewbot-suggestions
 - quotes
 ::::

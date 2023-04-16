@@ -2,7 +2,8 @@
 description: "Ben S's custom response that he made under certain restrictions."
 tags:
   - Text
----# bens
+---import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 **Name**: bens
 
@@ -10,16 +11,17 @@ tags:
 
 **Description**: Ben S's custom response that he made under certain restrictions.
 
-**Last Updated**: DATE HERE
+**Last Updated**: 11/6/2021
 
 ## Using the command
 
-    //bens
+### Examples
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot bens</TabItem><TabItem value='//'>//bens</TabItem></Tabs>
 
+### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Text** command group are not allowed in the following channels:
-- the_board
-- attachment-spam
 - bots
+- games
 - thejewbot-suggestions
 - quotes
 ::::

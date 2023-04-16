@@ -2,7 +2,8 @@
 description: "Just for funny"
 tags:
   - Voice
----# funny
+---import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 **Name**: funny
 
@@ -10,16 +11,18 @@ tags:
 
 **Description**: Just for funny
 
-**Last Updated**: DATE HERE
+**Last Updated**: 10/1/2022
 
 ## Using the command
 
-    //funny
+### Examples
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot funny</TabItem><TabItem value='//'>//funny</TabItem></Tabs>
 
+### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Voice** command group are not allowed in the following channels:
 - the_board
 - attachment-spam
-- bots
+- games
 - thejewbot-suggestions
 - quotes
 ::::

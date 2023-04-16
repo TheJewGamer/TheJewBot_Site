@@ -2,7 +2,8 @@
 description: "Are you sure though?"
 tags:
   - Voice
----# sure
+---import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 **Name**: sure
 
@@ -10,16 +11,18 @@ tags:
 
 **Description**: Are you sure though?
 
-**Last Updated**: DATE HERE
+**Last Updated**: 2/12/2022
 
 ## Using the command
 
-    //sure
+### Examples
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot sure</TabItem><TabItem value='//'>//sure</TabItem></Tabs>
 
+### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Voice** command group are not allowed in the following channels:
 - the_board
 - attachment-spam
-- bots
+- games
 - thejewbot-suggestions
 - quotes
 ::::

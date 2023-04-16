@@ -2,7 +2,8 @@
 description: "Amazing."
 tags:
   - Voice
----# amazing
+---import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 **Name**: amazing
 
@@ -10,16 +11,18 @@ tags:
 
 **Description**: Amazing.
 
-**Last Updated**: DATE HERE
+**Last Updated**: 1/8/2023
 
 ## Using the command
 
-    //amazing
+### Examples
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot amazing</TabItem><TabItem value='//'>//amazing</TabItem></Tabs>
 
+### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Voice** command group are not allowed in the following channels:
 - the_board
 - attachment-spam
-- bots
+- games
 - thejewbot-suggestions
 - quotes
 ::::

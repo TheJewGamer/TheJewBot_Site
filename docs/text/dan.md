@@ -2,7 +2,8 @@
 description: "Tells you what TheJewGamer thinks about Dan"
 tags:
   - Text
----# dan
+---import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 **Name**: dan
 
@@ -10,16 +11,17 @@ tags:
 
 **Description**: Tells you what TheJewGamer thinks about Dan
 
-**Last Updated**: DATE HERE
+**Last Updated**: 11/8/2021
 
 ## Using the command
 
-    //dan
+### Examples
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot dan</TabItem><TabItem value='//'>//dan</TabItem></Tabs>
 
+### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Text** command group are not allowed in the following channels:
-- the_board
-- attachment-spam
 - bots
+- games
 - thejewbot-suggestions
 - quotes
 ::::

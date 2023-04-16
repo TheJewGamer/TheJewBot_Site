@@ -2,7 +2,8 @@
 description: "Praises David so his ego can have a boost. He needs it."
 tags:
   - Text
----# davidsego
+---import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 **Name**: davidsego
 
@@ -10,16 +11,17 @@ tags:
 
 **Description**: Praises David so his ego can have a boost. He needs it.
 
-**Last Updated**: DATE HERE
+**Last Updated**: 11/8/2021
 
 ## Using the command
 
-    //davidsego
+### Examples
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot davidsego</TabItem><TabItem value='//'>//davidsego</TabItem></Tabs>
 
+### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Text** command group are not allowed in the following channels:
-- the_board
-- attachment-spam
 - bots
+- games
 - thejewbot-suggestions
 - quotes
 ::::

@@ -2,7 +2,8 @@
 description: "What are you supposed to be?"
 tags:
   - Voice
----# scottish
+---import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 **Name**: scottish
 
@@ -10,16 +11,18 @@ tags:
 
 **Description**: What are you supposed to be?
 
-**Last Updated**: DATE HERE
+**Last Updated**: 2/12/2022
 
 ## Using the command
 
-    //scottish
+### Examples
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot scottish</TabItem><TabItem value='//'>//scottish</TabItem></Tabs>
 
+### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Voice** command group are not allowed in the following channels:
 - the_board
 - attachment-spam
-- bots
+- games
 - thejewbot-suggestions
 - quotes
 ::::

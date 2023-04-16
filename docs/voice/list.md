@@ -2,7 +2,8 @@
 description: "Its not on the list."
 tags:
   - Voice
----# list
+---import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 **Name**: list
 
@@ -10,16 +11,18 @@ tags:
 
 **Description**: Its not on the list.
 
-**Last Updated**: DATE HERE
+**Last Updated**: 2/5/2023
 
 ## Using the command
 
-    //list
+### Examples
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot list</TabItem><TabItem value='//'>//list</TabItem></Tabs>
 
+### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Voice** command group are not allowed in the following channels:
 - the_board
 - attachment-spam
-- bots
+- games
 - thejewbot-suggestions
 - quotes
 ::::

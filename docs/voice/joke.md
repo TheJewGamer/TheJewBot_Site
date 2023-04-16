@@ -2,7 +2,8 @@
 description: "It was a joke."
 tags:
   - Voice
----# joke
+---import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 **Name**: joke
 
@@ -10,16 +11,18 @@ tags:
 
 **Description**: It was a joke.
 
-**Last Updated**: DATE HERE
+**Last Updated**: 2/5/2023
 
 ## Using the command
 
-    //joke
+### Examples
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot joke</TabItem><TabItem value='//'>//joke</TabItem></Tabs>
 
+### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Voice** command group are not allowed in the following channels:
 - the_board
 - attachment-spam
-- bots
+- games
 - thejewbot-suggestions
 - quotes
 ::::

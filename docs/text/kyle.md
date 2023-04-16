@@ -2,7 +2,8 @@
 description: "Tells you what Kyle's alias is and what computers think about him. Also tells you what he thinks TheJewGamer is doing."
 tags:
   - Text
----# kyle
+---import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 **Name**: kyle
 
@@ -10,16 +11,17 @@ tags:
 
 **Description**: Tells you what Kyle's alias is and what computers think about him. Also tells you what he thinks TheJewGamer is doing.
 
-**Last Updated**: DATE HERE
+**Last Updated**: 11/8/2021
 
 ## Using the command
 
-    //kyle
+### Examples
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot kyle</TabItem><TabItem value='//'>//kyle</TabItem></Tabs>
 
+### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Text** command group are not allowed in the following channels:
-- the_board
-- attachment-spam
 - bots
+- games
 - thejewbot-suggestions
 - quotes
 ::::

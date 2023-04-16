@@ -2,7 +2,8 @@
 description: "SCP-682 back at it again."
 tags:
   - Voice
----# sickomode
+---import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 **Name**: sickomode
 
@@ -10,16 +11,18 @@ tags:
 
 **Description**: SCP-682 back at it again.
 
-**Last Updated**: DATE HERE
+**Last Updated**: 2/12/2022
 
 ## Using the command
 
-    //sickomode
+### Examples
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot sickomode</TabItem><TabItem value='//'>//sickomode</TabItem></Tabs>
 
+### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Voice** command group are not allowed in the following channels:
 - the_board
 - attachment-spam
-- bots
+- games
 - thejewbot-suggestions
 - quotes
 ::::

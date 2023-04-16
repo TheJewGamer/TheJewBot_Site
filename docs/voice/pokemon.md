@@ -2,7 +2,8 @@
 description: "They wouldn't have know what would hit them.."
 tags:
   - Voice
----# pokemon
+---import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 **Name**: pokemon
 
@@ -10,16 +11,18 @@ tags:
 
 **Description**: They wouldn't have know what would hit them..
 
-**Last Updated**: DATE HERE
+**Last Updated**: 9/1/2022
 
 ## Using the command
 
-    //pokemon
+### Examples
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot pokemon</TabItem><TabItem value='//'>//pokemon</TabItem></Tabs>
 
+### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Voice** command group are not allowed in the following channels:
 - the_board
 - attachment-spam
-- bots
+- games
 - thejewbot-suggestions
 - quotes
 ::::
