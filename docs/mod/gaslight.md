@@ -11,7 +11,7 @@ import TabItem from '@theme/TabItem';
 
 **Description**: Its not about the money, its about sending a message.
 
-**Last Updated**: undefined
+**Last Updated**: REDACTED
 
 ## Using the command
 
