@@ -13,7 +13,7 @@ import TabItem from '@theme/TabItem';
 
 **Alias**: wgen
 
-**Last Updated**: 4/15/2023
+**Last Updated**: 5/15/2023
 
 ## Using the command
 
