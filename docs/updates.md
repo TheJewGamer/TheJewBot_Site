@@ -13,17 +13,14 @@ Clicking on a command name will bring you to that command's page.
 
 ## New Commands
 
-- [color](utility/color.md)
-- [come](voice/come.md)
-- [deal](voice/deal.md)
-- [die](voice/die.md)
-- [jam](voice/jam.md)
-- [shopping](voice/shopping.md)
-- [stick](voice/stick.md)
-- [tie](voice/tie.md)
-- [time](voice/time.md)
+- [balls](voice/balls.md)
+- [billy](voice/billy.md)
+- [jail](voice/jail.md)
+- [operators](voice/operators.md)
+- [rattle](voice/rattle.md)
+- [sacrificed](voice/sacrificed.md)
 
 ## Updated Commands
 
 
-- [websitegen](mod/websitegen.md)
+- [color](utility/color.md)

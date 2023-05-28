@@ -11,7 +11,7 @@ import TabItem from '@theme/TabItem';
 
 **Description**: Allows members of the server to set their name color.
 
-**Last Updated**: 5/14/2023
+**Last Updated**: 5/18/2023
 
 ## Using the command
 
