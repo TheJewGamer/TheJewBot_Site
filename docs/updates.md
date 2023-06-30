@@ -13,5 +13,8 @@ Clicking on a command name will bring you to that command's page.
 
 ## New Commands
 
-- [montage](voice/montage.md)
-- [wizard](voice/wizard.md)
+- [bark](voice/bark.md)
+- [forms](voice/forms.md)
+- [it](voice/it.md)
+- [now](voice/now.md)
+
