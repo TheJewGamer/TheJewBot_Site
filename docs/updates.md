@@ -13,11 +13,11 @@ Clicking on a command name will bring you to that command's page.
 
 ## New Commands
 
-- [civs](voice/civs.md)
-- [coffee](voice/coffee.md)
-- [dense](voice/dense.md)
-- [paris](voice/paris.md)
-- [snitch](voice/snitch.md)
-- [thx](voice/thx.md)
-- [tiktok](voice/tiktok.md)
+- [grenade](voice/grenade.md)
+- [krabs](voice/krabs.md)
+- [mario](voice/mario.md)
+- [ohno](voice/ohno.md)
+- [phone](voice/phone.md)
+- [sinning](voice/sinning.md)
+- [stole](voice/stole.md)
 
