@@ -1,22 +1,22 @@
 ---
-description: "What are you going to do?"
+description: "Want some food?"
 tags:
   - Voice
 ---import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-**Name**: frankkill
+**Name**: food
 
 **Group**: Voice
 
-**Description**: What are you going to do?
+**Description**: Want some food?
 
-**Last Updated**: 1/13/2022
+**Last Updated**: 9/3/2023
 
 ## Using the command
 
 ### Examples
-<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot @TheJewBot frankKill</TabItem><TabItem value='//'>//@TheJewBot frankKill</TabItem></Tabs>
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot food</TabItem><TabItem value='//'>//food</TabItem></Tabs>
 
 ### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Voice** command group are not allowed in the following channels:

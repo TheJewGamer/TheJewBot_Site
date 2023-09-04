@@ -11,7 +11,7 @@ import TabItem from '@theme/TabItem';
 
 **Description**: Kill him
 
-**Last Updated**: 4/30/2023
+**Last Updated**: 9/3/2023
 
 ## Using the command
 

@@ -11,7 +11,7 @@ import TabItem from '@theme/TabItem';
 
 **Description**: OPEN UP
 
-**Last Updated**: 1/13/2022
+**Last Updated**: 9/3/2023
 
 ## Using the command
 

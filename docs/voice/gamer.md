@@ -1,5 +1,5 @@
 ---
-description: "I cannot talk to you"
+description: "Are you a gamer?"
 tags:
   - Voice
 ---import Tabs from '@theme/Tabs';
@@ -9,9 +9,9 @@ import TabItem from '@theme/TabItem';
 
 **Group**: Voice
 
-**Description**: I cannot talk to you
+**Description**: Are you a gamer?
 
-**Last Updated**: 10/25/2022
+**Last Updated**: 9/3/2023
 
 ## Using the command
 

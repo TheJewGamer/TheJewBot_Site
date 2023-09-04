@@ -1,22 +1,22 @@
 ---
-description: "I should kick your fucking ass"
+description: "Plays a random voice clip"
 tags:
   - Voice
 ---import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-**Name**: wha
+**Name**: random
 
 **Group**: Voice
 
-**Description**: I should kick your fucking ass
+**Description**: Plays a random voice clip
 
-**Last Updated**: 4/24/2022
+**Last Updated**: 9/3/2023
 
 ## Using the command
 
 ### Examples
-<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot wha</TabItem><TabItem value='//'>//wha</TabItem></Tabs>
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot ramblers</TabItem><TabItem value='//'>//ramblers</TabItem></Tabs>
 
 ### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Voice** command group are not allowed in the following channels:

@@ -1,22 +1,22 @@
 ---
-description: "They are going to kill your wife"
+description: "Its filthy"
 tags:
   - Voice
 ---import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-**Name**: killwife
+**Name**: filthyfrank
 
 **Group**: Voice
 
-**Description**: They are going to kill your wife
+**Description**: Its filthy
 
-**Last Updated**: 6/12/2022
+**Last Updated**: 9/3/2023
 
 ## Using the command
 
 ### Examples
-<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot killwife</TabItem><TabItem value='//'>//killwife</TabItem></Tabs>
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot filthyfrank</TabItem><TabItem value='//'>//filthyfrank</TabItem></Tabs>
 
 ### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Voice** command group are not allowed in the following channels:

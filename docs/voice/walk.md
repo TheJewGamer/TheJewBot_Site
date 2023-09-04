@@ -1,5 +1,5 @@
 ---
-description: "Everyone walk the..."
+description: "Get walking"
 tags:
   - Voice
 ---import Tabs from '@theme/Tabs';
@@ -9,9 +9,9 @@ import TabItem from '@theme/TabItem';
 
 **Group**: Voice
 
-**Description**: Everyone walk the...
+**Description**: Get walking
 
-**Last Updated**: 1/13/2022
+**Last Updated**: 9/3/2023
 
 ## Using the command
 

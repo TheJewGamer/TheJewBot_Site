@@ -1,5 +1,5 @@
 ---
-description: "Don't waste my time please."
+description: "Is it time?"
 tags:
   - Voice
 ---import Tabs from '@theme/Tabs';
@@ -9,9 +9,9 @@ import TabItem from '@theme/TabItem';
 
 **Group**: Voice
 
-**Description**: Don't waste my time please.
+**Description**: Is it time?
 
-**Last Updated**: 5/16/2023
+**Last Updated**: 9/3/2023
 
 ## Using the command
 
