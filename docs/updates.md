@@ -13,11 +13,11 @@ Clicking on a command name will bring you to that command's page.
 
 ## New Commands
 
-- [grenade](voice/grenade.md)
-- [krabs](voice/krabs.md)
-- [mario](voice/mario.md)
-- [ohno](voice/ohno.md)
-- [phone](voice/phone.md)
-- [sinning](voice/sinning.md)
-- [stole](voice/stole.md)
+- [rileyclip](voice/rileyclip.md)
+- [time](voice/time.md)
+- [two](voice/two.md)
+- [violence](voice/violence.md)
+- [walk](voice/walk.md)
+- [war](voice/war.md)
+- [what](voice/what.md)
 
