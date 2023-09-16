@@ -13,11 +13,13 @@ Clicking on a command name will bring you to that command's page.
 
 ## New Commands
 
-- [rileyclip](voice/rileyclip.md)
-- [time](voice/time.md)
-- [two](voice/two.md)
-- [violence](voice/violence.md)
-- [walk](voice/walk.md)
-- [war](voice/war.md)
-- [what](voice/what.md)
+- [goodthing](voice/goodthing.md)
+- [music](voice/music.md)
+- [payday](voice/payday.md)
+- [sex](voice/sex.md)
 
+## Updated Commands
+
+
+- [food](voice/food.md)
+- [one](voice/one.md)

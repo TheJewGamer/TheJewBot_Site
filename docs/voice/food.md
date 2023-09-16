@@ -11,7 +11,7 @@ import TabItem from '@theme/TabItem';
 
 **Description**: Want some food?
 
-**Last Updated**: 9/3/2023
+**Last Updated**: 9/10/2023
 
 ## Using the command
 

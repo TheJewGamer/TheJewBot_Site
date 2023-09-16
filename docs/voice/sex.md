@@ -1,22 +1,22 @@
 ---
-description: "Do you kiss your mother with that mouth?"
+description: "I've have sex?"
 tags:
   - Voice
 ---import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-**Name**: cuss
+**Name**: sex
 
 **Group**: Voice
 
-**Description**: Do you kiss your mother with that mouth?
+**Description**: I've have sex?
 
-**Last Updated**: 1/13/2022
+**Last Updated**: 9/3/2023
 
 ## Using the command
 
 ### Examples
-<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot cuss</TabItem><TabItem value='//'>//cuss</TabItem></Tabs>
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot sex</TabItem><TabItem value='//'>//sex</TabItem></Tabs>
 
 ### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Voice** command group are not allowed in the following channels:

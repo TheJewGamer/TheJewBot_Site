@@ -1,22 +1,22 @@
 ---
-description: "It is on what?"
+description: "We had a good thing."
 tags:
   - Voice
 ---import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-**Name**: mayo
+**Name**: goodthing
 
 **Group**: Voice
 
-**Description**: It is on what?
+**Description**: We had a good thing.
 
-**Last Updated**: 2/17/2022
+**Last Updated**: 9/14/2023
 
 ## Using the command
 
 ### Examples
-<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot mayo</TabItem><TabItem value='//'>//mayo</TabItem></Tabs>
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot one</TabItem><TabItem value='//'>//one</TabItem></Tabs>
 
 ### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Voice** command group are not allowed in the following channels:
