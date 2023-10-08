@@ -1,22 +1,22 @@
 ---
-description: "Do you see me laughing my Gamer?"
+description: "Not so fast now"
 tags:
   - Voice
 ---import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-**Name**: laughing
+**Name**: midget
 
 **Group**: Voice
 
-**Description**: Do you see me laughing my Gamer?
+**Description**: Not so fast now
 
-**Last Updated**: 4/24/2022
+**Last Updated**: 10/7/2023
 
 ## Using the command
 
 ### Examples
-<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot laughing</TabItem><TabItem value='//'>//laughing</TabItem></Tabs>
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot midget</TabItem><TabItem value='//'>//midget</TabItem></Tabs>
 
 ### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Voice** command group are not allowed in the following channels:

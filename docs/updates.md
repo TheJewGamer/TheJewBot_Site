@@ -13,13 +13,12 @@ Clicking on a command name will bring you to that command's page.
 
 ## New Commands
 
-- [goodthing](voice/goodthing.md)
-- [music](voice/music.md)
-- [payday](voice/payday.md)
-- [sex](voice/sex.md)
+- [midget](voice/midget.md)
 
 ## Updated Commands
 
 
-- [food](voice/food.md)
-- [one](voice/one.md)
+- [goodthing](voice/goodthing.md)
+- [sex](voice/sex.md)
+- [source](voice/source.md)
+- [women](voice/women.md)
