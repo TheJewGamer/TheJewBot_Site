@@ -11,7 +11,7 @@ import TabItem from '@theme/TabItem';
 
 **Description**: Are you a gamer?
 
-**Last Updated**: 9/3/2023
+**Last Updated**: 11/5/2023
 
 ## Using the command
 
