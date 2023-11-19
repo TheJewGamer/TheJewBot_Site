@@ -2,7 +2,8 @@
 description: "prevents certain users from using the bot's commands"
 tags:
   - Mod
----import Tabs from '@theme/Tabs';
+---
+import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 **Name**: ignore

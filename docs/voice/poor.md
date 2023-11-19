@@ -2,7 +2,8 @@
 description: "Sorry I forgot that you were poor"
 tags:
   - Voice
----import Tabs from '@theme/Tabs';
+---
+import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 **Name**: poor

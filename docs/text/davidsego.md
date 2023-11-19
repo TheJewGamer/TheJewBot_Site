@@ -2,7 +2,8 @@
 description: "Praises David so his ego can have a boost. He needs it."
 tags:
   - Text
----import Tabs from '@theme/Tabs';
+---
+import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 **Name**: davidsego

@@ -2,7 +2,8 @@
 description: "He is always with us, even when we do not expect it."
 tags:
   - Text
----import Tabs from '@theme/Tabs';
+---
+import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 **Name**: jason

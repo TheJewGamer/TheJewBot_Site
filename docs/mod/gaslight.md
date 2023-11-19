@@ -2,7 +2,8 @@
 description: "Its not about the money, its about sending a message."
 tags:
   - Mod
----import Tabs from '@theme/Tabs';
+---
+import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 **Name**: gaslight

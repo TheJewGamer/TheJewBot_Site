@@ -2,7 +2,8 @@
 description: "He is not up to my standards"
 tags:
   - Voice
----import Tabs from '@theme/Tabs';
+---
+import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 **Name**: standards

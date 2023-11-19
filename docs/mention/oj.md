@@ -2,7 +2,8 @@
 description: "Check to see if the user is the real killer of the oj victims."
 tags:
   - Mention
----import Tabs from '@theme/Tabs';
+---
+import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 **Name**: oj

@@ -2,7 +2,8 @@
 description: "shows the prefix for the bot and allows the owner to change it."
 tags:
   - Utility
----import Tabs from '@theme/Tabs';
+---
+import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 **Name**: prefix

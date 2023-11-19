@@ -2,7 +2,8 @@
 description: "oooooooo no one gives a shit"
 tags:
   - Voice
----import Tabs from '@theme/Tabs';
+---
+import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 **Name**: shit

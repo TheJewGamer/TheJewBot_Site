@@ -2,7 +2,8 @@
 description: "It can only mean one thing."
 tags:
   - Voice
----import Tabs from '@theme/Tabs';
+---
+import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 **Name**: california

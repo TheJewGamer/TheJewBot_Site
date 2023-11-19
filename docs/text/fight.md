@@ -2,7 +2,8 @@
 description: "Trying to start a fight with the bot?"
 tags:
   - Text
----import Tabs from '@theme/Tabs';
+---
+import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 **Name**: fight

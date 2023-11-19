@@ -2,7 +2,8 @@
 description: "Tells you if it is Jewmis or not."
 tags:
   - Text
----import Tabs from '@theme/Tabs';
+---
+import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 **Name**: jewmis

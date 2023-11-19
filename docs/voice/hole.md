@@ -2,7 +2,8 @@
 description: "What goes into it is up to you"
 tags:
   - Voice
----import Tabs from '@theme/Tabs';
+---
+import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 **Name**: hole

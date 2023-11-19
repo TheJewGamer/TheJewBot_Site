@@ -2,7 +2,8 @@
 description: "Plays a random voice clip"
 tags:
   - Voice
----import Tabs from '@theme/Tabs';
+---
+import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 **Name**: random

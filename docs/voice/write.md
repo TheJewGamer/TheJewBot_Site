@@ -2,7 +2,8 @@
 description: "You are gonna need to write that down."
 tags:
   - Voice
----import Tabs from '@theme/Tabs';
+---
+import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 **Name**: write

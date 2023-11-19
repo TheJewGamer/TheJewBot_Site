@@ -2,7 +2,8 @@
 description: "Who is he?."
 tags:
   - Text
----import Tabs from '@theme/Tabs';
+---
+import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 **Name**: vandle

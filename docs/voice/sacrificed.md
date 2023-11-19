@@ -2,7 +2,8 @@
 description: "I've sacrificed so much"
 tags:
   - Voice
----import Tabs from '@theme/Tabs';
+---
+import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 **Name**: sacrificed

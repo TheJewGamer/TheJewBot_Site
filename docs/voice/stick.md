@@ -2,7 +2,8 @@
 description: "Got to beat them off with a stick."
 tags:
   - Voice
----import Tabs from '@theme/Tabs';
+---
+import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 **Name**: stick

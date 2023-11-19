@@ -2,7 +2,8 @@
 description: "sends a random quote from the quote channel."
 tags:
   - Multiple
----import Tabs from '@theme/Tabs';
+---
+import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 **Name**: quote

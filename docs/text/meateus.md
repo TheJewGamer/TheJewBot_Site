@@ -2,7 +2,8 @@
 description: "Tells you what I think about Meateus'"
 tags:
   - Text
----import Tabs from '@theme/Tabs';
+---
+import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 **Name**: meateus

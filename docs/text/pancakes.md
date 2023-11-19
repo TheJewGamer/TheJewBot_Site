@@ -2,7 +2,8 @@
 description: "Tells you what TheJewBot thinks about pancakes."
 tags:
   - Text
----import Tabs from '@theme/Tabs';
+---
+import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 **Name**: pancakes

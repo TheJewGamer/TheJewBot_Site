@@ -2,7 +2,8 @@
 description: "Tells you what Coover likes."
 tags:
   - Text
----import Tabs from '@theme/Tabs';
+---
+import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 **Name**: coover

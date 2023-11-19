@@ -2,7 +2,8 @@
 description: "Tells you about David's political affiliations"
 tags:
   - Text
----import Tabs from '@theme/Tabs';
+---
+import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 **Name**: david

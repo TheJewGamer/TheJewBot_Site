@@ -2,7 +2,8 @@
 description: "Allow me to put this into words you will understand."
 tags:
   - Voice
----import Tabs from '@theme/Tabs';
+---
+import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 **Name**: understand

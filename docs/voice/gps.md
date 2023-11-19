@@ -2,7 +2,8 @@
 description: "You are a bit sensitive."
 tags:
   - Voice
----import Tabs from '@theme/Tabs';
+---
+import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 **Name**: gps

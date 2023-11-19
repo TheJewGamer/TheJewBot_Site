@@ -2,7 +2,8 @@
 description: "Tells you about his preferred form of government."
 tags:
   - Text
----import Tabs from '@theme/Tabs';
+---
+import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 **Name**: issac

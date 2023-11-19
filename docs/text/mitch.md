@@ -2,7 +2,8 @@
 description: "Tells you what Mitch is up to, and his driving ability."
 tags:
   - Text
----import Tabs from '@theme/Tabs';
+---
+import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 **Name**: mitch

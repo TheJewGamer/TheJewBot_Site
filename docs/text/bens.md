@@ -2,7 +2,8 @@
 description: "Ben S's custom response that he made under certain restrictions."
 tags:
   - Text
----import Tabs from '@theme/Tabs';
+---
+import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 **Name**: bens

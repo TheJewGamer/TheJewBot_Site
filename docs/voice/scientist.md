@@ -2,7 +2,8 @@
 description: "You know I am somewhat of a scientist."
 tags:
   - Voice
----import Tabs from '@theme/Tabs';
+---
+import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 **Name**: scientist

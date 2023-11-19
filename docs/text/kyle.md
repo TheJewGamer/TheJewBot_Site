@@ -2,7 +2,8 @@
 description: "Tells you what Kyle's alias is and what computers think about him. Also tells you what he thinks TheJewGamer is doing."
 tags:
   - Text
----import Tabs from '@theme/Tabs';
+---
+import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 **Name**: kyle

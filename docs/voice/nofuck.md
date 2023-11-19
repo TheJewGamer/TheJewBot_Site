@@ -2,7 +2,8 @@
 description: "No one gives a fuck..."
 tags:
   - Voice
----import Tabs from '@theme/Tabs';
+---
+import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 **Name**: nofuck

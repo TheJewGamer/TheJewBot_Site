@@ -2,7 +2,8 @@
 description: "You can try and ban Jacob from the server."
 tags:
   - Text
----import Tabs from '@theme/Tabs';
+---
+import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 **Name**: banjacob

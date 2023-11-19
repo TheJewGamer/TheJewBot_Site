@@ -2,7 +2,8 @@
 description: "ITS A SOLID ONE INCH!"
 tags:
   - Voice
----import Tabs from '@theme/Tabs';
+---
+import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 **Name**: inch

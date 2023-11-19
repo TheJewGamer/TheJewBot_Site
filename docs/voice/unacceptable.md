@@ -2,7 +2,8 @@
 description: "Lemonhead is not happy"
 tags:
   - Voice
----import Tabs from '@theme/Tabs';
+---
+import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 **Name**: unacceptable

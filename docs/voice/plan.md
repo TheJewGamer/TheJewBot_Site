@@ -2,7 +2,8 @@
 description: "I love it when a plan comes together"
 tags:
   - Voice
----import Tabs from '@theme/Tabs';
+---
+import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 **Name**: plan

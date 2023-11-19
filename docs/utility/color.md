@@ -2,7 +2,8 @@
 description: "Allows members of the server to set their name color."
 tags:
   - Utility
----import Tabs from '@theme/Tabs';
+---
+import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 **Name**: color

@@ -2,7 +2,8 @@
 description: "Tells you about ya boi Ben."
 tags:
   - Text
----import Tabs from '@theme/Tabs';
+---
+import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 **Name**: ben

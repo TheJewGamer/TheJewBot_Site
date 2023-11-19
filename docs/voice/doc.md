@@ -2,7 +2,8 @@
 description: "Ya doc so as I was sayin..."
 tags:
   - Voice
----import Tabs from '@theme/Tabs';
+---
+import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 **Name**: doc

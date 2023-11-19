@@ -2,7 +2,8 @@
 description: "A fun game for the whole family."
 tags:
   - Games
----import Tabs from '@theme/Tabs';
+---
+import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 **Name**: russian
@@ -17,11 +18,11 @@ import TabItem from '@theme/TabItem';
 
 ## Using the command
 
-
-
 ::::tip
 This command has aliases which can be used instead of the default command name. To use an alias enter the command as you would normally but replace the command name with an alias of this command.
-::::### Examples
+::::
+
+### Examples
 <Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot russian [# of bullets] [# of spins]</TabItem><TabItem value='//'>//russian [# of bullets] [# of spins]</TabItem></Tabs>
 
 ### Command Not Allowed in these Channels

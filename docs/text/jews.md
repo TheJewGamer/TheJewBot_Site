@@ -2,7 +2,8 @@
 description: "Tells you who are the Jews in the server."
 tags:
   - Text
----import Tabs from '@theme/Tabs';
+---
+import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 **Name**: jews

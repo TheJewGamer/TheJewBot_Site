@@ -2,7 +2,8 @@
 description: "unignores a user who is currently ignored by the bot"
 tags:
   - Mod
----import Tabs from '@theme/Tabs';
+---
+import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 **Name**: unignore

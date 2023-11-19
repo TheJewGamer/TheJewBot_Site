@@ -2,7 +2,8 @@
 description: "Kyle enjoys this one"
 tags:
   - Text
----import Tabs from '@theme/Tabs';
+---
+import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 **Name**: anja
