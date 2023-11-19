@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkthe_jew_bot_site=self.webpackChunkthe_jew_bot_site||[]).push([[9661],{1892:(e,s,t)=>{t.r(s),t.d(s,{default:()=>i});t(7294);var r=t(6010),u=t(1944),a=t(5281),c=t(8790),h=t(7961),n=t(5893);function i(e){return(0,n.jsx)(u.FG,{className:(0,r.Z)(a.k.wrapper.docsPages),children:(0,n.jsx)(h.Z,{children:(0,c.H)(e.route.routes)})})}}}]);
