@@ -12,7 +12,7 @@ import TabItem from '@theme/TabItem';
 
 **Description**: Them good jams
 
-**Last Updated**: 11/18/2023
+**Last Updated**: 12/16/2023
 
 ## Using the command
 
@@ -46,6 +46,7 @@ This command has multiple voice outputs. Entering a number after the command nam
  1. rich
  1. rules
  1. sickoMode
+ 1. spidermanBlackSuit
  1. sunglasses
  1. wakeup
 

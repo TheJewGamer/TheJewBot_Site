@@ -12,7 +12,7 @@ import TabItem from '@theme/TabItem';
 
 **Description**: Welcome to the front.
 
-**Last Updated**: 11/18/2023
+**Last Updated**: 12/16/2023
 
 ## Using the command
 
@@ -29,6 +29,7 @@ This command has multiple voice outputs. Entering a number after the command nam
  1. coveredWars
  1. execution
  1. grenade
+ 1. pain
  1. pokemon
  1. promoted
  1. rock

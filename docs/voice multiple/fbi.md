@@ -12,7 +12,7 @@ import TabItem from '@theme/TabItem';
 
 **Description**: OPEN UP
 
-**Last Updated**: 11/18/2023
+**Last Updated**: 12/16/2023
 
 ## Using the command
 
@@ -32,6 +32,7 @@ This command has multiple voice outputs. Entering a number after the command nam
  1. operators
  1. police
  1. warrant
+ 1. whatDoesThatMean
 
 ### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Voice Multiple** command group are not allowed in the following channels:

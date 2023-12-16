@@ -28,6 +28,7 @@ This command has multiple voice outputs. Entering a number after the command nam
  1. butter
  1. coffee
  1. coffeeBoy
+ 1. coke
  1. cook
  1. corn
  1. eggrole

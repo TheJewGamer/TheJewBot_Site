@@ -1,23 +1,23 @@
 ---
-description: "Nooooo!"
+description: "That is not good news"
 tags:
   - Voice
 ---
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-**Name**: no
+**Name**: news
 
 **Group**: Voice
 
-**Description**: Nooooo!
+**Description**: That is not good news
 
-**Last Updated**: 3/12/2022
+**Last Updated**: 12/16/2023
 
 ## Using the command
 
 ### Examples
-<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot no</TabItem><TabItem value='//'>//no</TabItem></Tabs>
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot news</TabItem><TabItem value='//'>//news</TabItem></Tabs>
 
 ### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Voice** command group are not allowed in the following channels:

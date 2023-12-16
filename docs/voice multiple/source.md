@@ -12,7 +12,7 @@ import TabItem from '@theme/TabItem';
 
 **Description**: Please share your sources
 
-**Last Updated**: 11/18/2023
+**Last Updated**: 12/16/2023
 
 ## Using the command
 
@@ -23,6 +23,7 @@ import TabItem from '@theme/TabItem';
 
 This command has multiple voice outputs. Entering a number after the command name will play the corresponding voice file from the list below. Entering just the command name or invalid data will play a random voice file from the list below.
 
+ 1. fake
  1. source
  1. study
  1. truth

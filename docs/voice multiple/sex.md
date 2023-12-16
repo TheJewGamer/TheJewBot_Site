@@ -12,7 +12,7 @@ import TabItem from '@theme/TabItem';
 
 **Description**: I've have sex?
 
-**Last Updated**: 11/18/2023
+**Last Updated**: 12/16/2023
 
 ## Using the command
 
@@ -29,6 +29,7 @@ This command has multiple voice outputs. Entering a number after the command nam
  1. jack
  1. jerry
  1. pussy
+ 1. relations
  1. rustCome
  1. rustFuckMe
  1. sex2

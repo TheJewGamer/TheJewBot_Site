@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 **Alias**: technology
 
-**Last Updated**: 11/18/2023
+**Last Updated**: 12/16/2023
 
 ## Using the command
 
@@ -33,6 +33,7 @@ This command has multiple voice outputs. Entering a number after the command nam
  1. IT
  1. sandwich
  1. technology
+ 1. tv
 
 ### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Voice Multiple** command group are not allowed in the following channels:
