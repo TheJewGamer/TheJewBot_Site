@@ -12,7 +12,7 @@ import TabItem from '@theme/TabItem';
 
 **Description**: No not the other word.
 
-**Last Updated**: 11/18/2023
+**Last Updated**: 12/21/2024
 
 ## Using the command
 
@@ -25,6 +25,8 @@ This command has multiple voice outputs. Entering a number after the command nam
 
  1. come
  1. coming
+ 1. santaCome
+ 1. santaCome_2
 
 ### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Voice Multiple** command group are not allowed in the following channels:

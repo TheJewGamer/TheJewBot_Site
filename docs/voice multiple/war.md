@@ -12,7 +12,7 @@ import TabItem from '@theme/TabItem';
 
 **Description**: Welcome to the front.
 
-**Last Updated**: 12/16/2023
+**Last Updated**: 12/21/2024
 
 ## Using the command
 

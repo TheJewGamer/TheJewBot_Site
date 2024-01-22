@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 **Alias**: technology
 
-**Last Updated**: 12/16/2023
+**Last Updated**: 12/21/2024
 
 ## Using the command
 
@@ -32,6 +32,7 @@ This command has multiple voice outputs. Entering a number after the command nam
  1. computer
  1. IT
  1. sandwich
+ 1. serverRoom
  1. technology
  1. tv
 
