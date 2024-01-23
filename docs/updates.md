@@ -13,7 +13,7 @@ Clicking on a command name will bring you to that command's page.
 
 ## New Commands
 
-- [holiday](voice%20multiple/holidy.md) 
+- [holiday](voice%20multiple/holiday.md) 
 
 ## Updated Commands
 
