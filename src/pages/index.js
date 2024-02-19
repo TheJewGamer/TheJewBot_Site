@@ -1,41 +1,40 @@
 import React from 'react';
-import clsx from 'clsx';
-import Link from '@docusaurus/Link';
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
-import HomepageFeatures from '@site/src/components/HomepageFeatures';
+import Link from '@docusaurus/Link';
+import RandomQuote from '@site/src/components/quote.js';
+import HomepageFeatures  from '@site/src/components/homepageColumns/homepageColumns.js';
 
-import styles from './index.module.css';
+//picture
+import iconPicture from '@site/static/img/homePageIcon.png';
 
-function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
+//css
+import styles from '@site/src/css/index.module.css';
+
+export default function Home()
+{
   return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
-      <div className="container">
-        <h1 className="hero__title">{siteConfig.title}</h1>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
+    <Layout title={`Home`}>
+      <div className={styles.centered}>
+        <img className={styles.circleImage} src={iconPicture} alt="My Icon" />
+        <h1 className="hero__title">{"TheJewBot"}</h1>
+
+        {/*quote stuff*/}
+        <div className={styles.quoteContainer}>
+          <RandomQuote />
+        </div>
+
+        {/*Columns to explain how the site works*/}
+        <HomepageFeatures />
+
+      {/*Button to update page */}
+        <div className={styles.buttonCenter}>
           <Link
-            className="button button--secondary button--lg"
-            to="/docs/intro">
-            Bring me to the Commands
+            className={styles.buttonsStyle}
+            to="docs/update/">
+            Commands
           </Link>
         </div>
       </div>
-    </header>
-  );
-}
-
-export default function Home() {
-  const {siteConfig} = useDocusaurusContext();
-  return (
-    <Layout
-      title={`Home`}
-      description="Homepage of TheJewBot's site">
-      <HomepageHeader />
-      <main>
-        <HomepageFeatures />
-      </main>
     </Layout>
   );
 }

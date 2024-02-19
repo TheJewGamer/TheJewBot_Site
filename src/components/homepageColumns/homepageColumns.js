@@ -1,6 +1,6 @@
 import React from 'react';
 import clsx from 'clsx';
-import styles from './styles.module.css';
+import styles from './homepageColumns.module.css';
 
 const FeatureList = [
   {
@@ -23,7 +23,7 @@ const FeatureList = [
     title: 'Where are the Commands?',
     description: (
       <>
-        Go find them yourself good UI design died along time ago so I am not going to tell you.
+        You see that button below? I would recommend clicking on it. How knows what will happen.
       </>
     ),
   },

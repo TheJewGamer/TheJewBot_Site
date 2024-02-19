@@ -1,0 +1,61 @@
+/* 
+  This is the CSS for the index page
+*/
+
+
+/* prevents text jumping because of the quote */
+.quoteContainer {
+  height: 100px;
+}
+
+/* for centering the home page other stuff */
+.centered {
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+.circleImage {
+  border-radius: 50%;
+  max-width: 100%;
+  height: auto;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  padding-top: 25px;
+  color: white;
+}
+
+.buttonCenter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.buttonsStyle {
+  color: black;
+  background-color: #bbdff5;
+  border-radius: 16px;
+  font-size: 25px;
+  padding: 5px 10px;
+  box-shadow: -5px 5px #94b0c2;
+  font-weight: bold;
+}
+
+/* Make the buttons look good on mobile  */
+@media only screen and (max-width: 996px) {
+  .buttonsStyle {
+    font-size: 16px;
+  }
+}
+
+.buttonsStyle:hover {
+  text-decoration: none;
+  transform: scale(.9);
+  opacity: 70%;
+  color: black;
+}
