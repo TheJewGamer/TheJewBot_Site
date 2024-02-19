@@ -31,6 +31,7 @@ This command has multiple voice outputs. Entering a number after the command nam
  1. coke
  1. cook
  1. corn
+ 1. drink
  1. eggrole
  1. hotsauce
  1. jam
@@ -41,6 +42,7 @@ This command has multiple voice outputs. Entering a number after the command nam
  1. omelet
  1. oven
  1. pepsiMan
+ 1. pickel
  1. rustChocolate
  1. sangwich
  1. taco

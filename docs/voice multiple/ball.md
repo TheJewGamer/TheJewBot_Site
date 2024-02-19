@@ -26,6 +26,7 @@ This command has multiple voice outputs. Entering a number after the command nam
  1. ball
  1. balls
  1. blinded
+ 1. officalBalls
 
 ### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Voice Multiple** command group are not allowed in the following channels:
