@@ -13,14 +13,13 @@ Clicking on a command name will bring you to that command's page.
 
 ## New Commands
 
-- [buildclips](mod/buildclips.md)
-- [clip](multiple/clip.md)
-- [done](voice/done.md)
-- [society](voice/society.md)
+- [car](voice%20multiple/car.md)
+- [yes](voice%20multiple/yes.md)
 
 ## Updated Commands
 
-- [ball](voice%20multiple/ball.md)
 - [food](voice%20multiple/food.md)
 - [kill](voice%20multiple/kill.md)
-- [woo](voice%20multiple/woo.md)
+- [rileyclip](voice%20multiple/rileyclip.md)
+- [what](voice%20multiple/what.md)
+- [women](voice%20multiple/women.md)

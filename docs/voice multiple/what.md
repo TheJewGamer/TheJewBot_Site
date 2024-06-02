@@ -23,6 +23,7 @@ import TabItem from '@theme/TabItem';
 
 This command has multiple voice outputs. Entering a number after the command name will play the corresponding voice file from the list below. Entering just the command name or invalid data will play a random voice file from the list below.
 
+ 1. hear
  1. wha
  1. whatareyou
  1. whatCall

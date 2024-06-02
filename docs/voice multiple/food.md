@@ -26,6 +26,7 @@ This command has multiple voice outputs. Entering a number after the command nam
  1. banana
  1. beeplettuce
  1. butter
+ 1. cane
  1. coffee
  1. coffeeBoy
  1. coke

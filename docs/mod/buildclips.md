@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 **Alias**: buildc
 
-**Last Updated**: 12/4/2022
+**Last Updated**: 2/18/2024
 
 ## Using the command
 
