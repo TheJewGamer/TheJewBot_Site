@@ -24,12 +24,14 @@ import TabItem from '@theme/TabItem';
 This command has multiple voice outputs. Entering a number after the command name will play the corresponding voice file from the list below. Entering just the command name or invalid data will play a random voice file from the list below.
 
  1. buyAGun
+ 1. calm
  1. gun
  1. hammer
  1. math
  1. paper
  1. rude
  1. shotgun
+ 1. theyGotKyle
 
 ### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Voice Multiple** command group are not allowed in the following channels:

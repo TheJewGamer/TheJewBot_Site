@@ -26,6 +26,7 @@ This command has multiple voice outputs. Entering a number after the command nam
  1. clock
  1. tiktok
  1. time
+ 1. waitingForThis
 
 ### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Voice Multiple** command group are not allowed in the following channels:

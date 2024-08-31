@@ -28,9 +28,11 @@ This command has multiple voice outputs. Entering a number after the command nam
  1. blackBetty
  1. boombastic
  1. boots
+ 1. cope
  1. cottonEyeJoe
  1. cuss
  1. drip
+ 1. fancyPants
  1. freebird
  1. got
  1. homedepot

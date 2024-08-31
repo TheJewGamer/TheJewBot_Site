@@ -11,15 +11,9 @@ This page includes the list of all commands that were added or updated in the mo
 Clicking on a command name will bring you to that command's page.
 ::::
 
-## New Commands
-
-- [car](voice%20multiple/car.md)
-- [yes](voice%20multiple/yes.md)
-
 ## Updated Commands
 
-- [food](voice%20multiple/food.md)
-- [kill](voice%20multiple/kill.md)
-- [rileyclip](voice%20multiple/rileyclip.md)
-- [what](voice%20multiple/what.md)
+- [gun](voice%20multiple/gun.md)
+- [music](voice%20multiple/music.md)
+- [time](voice%20multiple/time.md)
 - [women](voice%20multiple/women.md)
