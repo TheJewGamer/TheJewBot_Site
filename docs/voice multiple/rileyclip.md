@@ -34,7 +34,9 @@ This command has multiple voice outputs. Entering a number after the command nam
  1. dick
  1. guestBedroom
  1. harder
+ 1. jacobHelp
  1. voicemail
+ 1. whereAmI
 
 ### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Voice Multiple** command group are not allowed in the following channels:

@@ -11,9 +11,12 @@ This page includes the list of all commands that were added or updated in the mo
 Clicking on a command name will bring you to that command's page.
 ::::
 
+## New Commands
+
+- [call](voice/call.md)
+- [live](voice/live.md)
+
 ## Updated Commands
 
-- [gun](voice%20multiple/gun.md)
-- [music](voice%20multiple/music.md)
-- [time](voice%20multiple/time.md)
-- [women](voice%20multiple/women.md)
+- [hello](voice%20multiple/hello.md)
+- [rileyclip](voice%20multiple/rileyclip.md)

@@ -25,6 +25,7 @@ This command has multiple voice outputs. Entering a number after the command nam
 
  1. bring
  1. cloakerLate
+ 1. dinkster
  1. door
  1. good
  1. hello
