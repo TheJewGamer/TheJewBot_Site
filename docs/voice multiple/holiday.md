@@ -25,7 +25,8 @@ This command has multiple voice outputs. Entering a number after the command nam
 
  1. crackers
  1. kid
- 1. santa
+ 1. santa_Lore_1
+ 1. santa_Lore_2
 
 ### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Voice Multiple** command group are not allowed in the following channels:

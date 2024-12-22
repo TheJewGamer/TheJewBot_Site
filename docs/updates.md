@@ -13,10 +13,12 @@ Clicking on a command name will bring you to that command's page.
 
 ## New Commands
 
-- [call](voice/call.md)
-- [live](voice/live.md)
+- [fool](voice/fool.md)
+- [wedone](voice/wedone.md)
+- [kyleclip](voice%20multiple/kyleclip.md)
 
 ## Updated Commands
 
-- [hello](voice%20multiple/hello.md)
-- [rileyclip](voice%20multiple/rileyclip.md)
+- [car](voice%20multiple/car.md)
+- [holiday](voice%20multiple/holiday.md)
+- [time](voice%20multiple/time.md)

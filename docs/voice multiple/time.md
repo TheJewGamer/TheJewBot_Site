@@ -24,6 +24,7 @@ import TabItem from '@theme/TabItem';
 This command has multiple voice outputs. Entering a number after the command name will play the corresponding voice file from the list below. Entering just the command name or invalid data will play a random voice file from the list below.
 
  1. clock
+ 1. fearTime
  1. tiktok
  1. time
  1. waitingForThis
