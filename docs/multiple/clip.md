@@ -12,7 +12,7 @@ import TabItem from '@theme/TabItem';
 
 **Description**: sends a random clip from the clip channel.
 
-**Last Updated**: 2/18/2024
+**Last Updated**: 2/28/2025
 
 ## Using the command
 

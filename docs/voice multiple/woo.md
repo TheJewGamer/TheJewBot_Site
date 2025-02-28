@@ -12,7 +12,7 @@ import TabItem from '@theme/TabItem';
 
 **Description**: woo.
 
-**Last Updated**: 11/18/2023
+**Last Updated**: 2/28/2025
 
 ## Using the command
 
@@ -26,6 +26,7 @@ This command has multiple voice outputs. Entering a number after the command nam
  1. shredit
  1. shreditWoo
  1. woo
+ 1. wooieZowee
  1. wooNoises
  1. wooo
 

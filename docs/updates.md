@@ -13,12 +13,15 @@ Clicking on a command name will bring you to that command's page.
 
 ## New Commands
 
-- [fool](voice/fool.md)
-- [wedone](voice/wedone.md)
-- [kyleclip](voice%20multiple/kyleclip.md)
+- [calm](voice/calm.md)
+- [odds](voice/odds.md)
+- [rash](voice/rash.md)
+- [tight](voice/tight.md)
 
 ## Updated Commands
 
-- [car](voice%20multiple/car.md)
-- [holiday](voice%20multiple/holiday.md)
-- [time](voice%20multiple/time.md)
+- [clip](multiple/clip.md)
+- [quote](multiple/quote.md)
+- [sex](voice%20multiple/sex.md)
+- [war](voice%20multiple/war.md)
+- [woo](voice%20multiple/woo.md)
