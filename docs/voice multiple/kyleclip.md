@@ -29,6 +29,7 @@ This command has an alias which can be used instead of the default command name.
 
 This command has multiple voice outputs. Entering a number after the command name will play the corresponding voice file from the list below. Entering just the command name or invalid data will play a random voice file from the list below.
 
+ 1. damage
  1. kyleWire
 
 ### Command Not Allowed in these Channels

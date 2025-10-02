@@ -27,6 +27,7 @@ This command has multiple voice outputs. Entering a number after the command nam
  1. crash
  1. crash_2
  1. rev
+ 1. soundOfABitch
  1. warioCrash
 
 ### Command Not Allowed in these Channels

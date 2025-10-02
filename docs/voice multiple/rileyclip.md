@@ -32,9 +32,12 @@ This command has multiple voice outputs. Entering a number after the command nam
  1. blew
  1. cans
  1. dick
+ 1. gamer
  1. guestBedroom
  1. harder
+ 1. iNeed
  1. jacobHelp
+ 1. speaking
  1. voicemail
  1. whereAmI
 

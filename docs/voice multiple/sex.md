@@ -26,10 +26,12 @@ This command has multiple voice outputs. Entering a number after the command nam
  1. anime
  1. ass
  1. boss
+ 1. dickTwist
  1. drill
  1. hadSex
  1. jack
  1. jerry
+ 1. laid
  1. pussy
  1. relations
  1. rustCome

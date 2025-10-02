@@ -25,6 +25,7 @@ This command has multiple voice outputs. Entering a number after the command nam
 
  1. afair
  1. fainted
+ 1. ideasWomen
  1. ladiesRacist
  1. leonWoman_1
  1. leonWoman_2

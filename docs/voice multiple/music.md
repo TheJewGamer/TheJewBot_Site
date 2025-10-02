@@ -37,6 +37,7 @@ This command has multiple voice outputs. Entering a number after the command nam
  1. got
  1. homedepot
  1. jams
+ 1. kickstart
  1. krabs
  1. lasagna
  1. letsgo
@@ -44,12 +45,14 @@ This command has multiple voice outputs. Entering a number after the command nam
  1. me
  1. mission
  1. montage
+ 1. more
  1. oceanMan
  1. rich
  1. rules
  1. sickoMode
  1. spidermanBlackSuit
  1. sunglasses
+ 1. tuba
  1. wakeup
 
 ### Command Not Allowed in these Channels

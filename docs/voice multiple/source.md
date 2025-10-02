@@ -24,6 +24,8 @@ import TabItem from '@theme/TabItem';
 This command has multiple voice outputs. Entering a number after the command name will play the corresponding voice file from the list below. Entering just the command name or invalid data will play a random voice file from the list below.
 
  1. fake
+ 1. liar
+ 1. right
  1. source
  1. study
  1. truth

@@ -1,23 +1,23 @@
 ---
-description: "Plays a random voice clip"
+description: "You're not the guy."
 tags:
   - Voice
 ---
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-**Name**: random
+**Name**: guy
 
 **Group**: Voice
 
-**Description**: Plays a random voice clip
+**Description**: You're not the guy.
 
 **Last Updated**: 10/2/2025
 
 ## Using the command
 
 ### Examples
-<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot random</TabItem><TabItem value='//'>//random</TabItem></Tabs>
+<Tabs defaultValue='@'values={[ {label: '@', value: '@'}, {label: 'Prefix', value: '//'},]}><TabItem value='@'>@TheJewBot guy</TabItem><TabItem value='//'>//guy</TabItem></Tabs>
 
 ### Command Not Allowed in these Channels
 ::::caution Please note that this command and other commands from the **Voice** command group are not allowed in the following channels:

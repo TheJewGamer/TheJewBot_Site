@@ -13,15 +13,23 @@ Clicking on a command name will bring you to that command's page.
 
 ## New Commands
 
-- [calm](voice/calm.md)
-- [odds](voice/odds.md)
-- [rash](voice/rash.md)
-- [tight](voice/tight.md)
+- [randomfill](mod/randomfill.md)
+- [buddy](voice/buddy.md)
+- [guy](voice/guy.md)
+- [netflix](voice/netflix.md)
+- [nothappy](voice/nothappy.md)
+- [gym](voice%20multiple/gym.md)
+- [religion](voice%20multiple/religion.md)
 
 ## Updated Commands
 
-- [clip](multiple/clip.md)
-- [quote](multiple/quote.md)
+- [random](voice/random.md)
+- [car](voice%20multiple/car.md)
+- [gun](voice%20multiple/gun.md)
+- [kyleclip](voice%20multiple/kyleclip.md)
+- [music](voice%20multiple/music.md)
+- [no](voice%20multiple/no.md)
+- [rileyclip](voice%20multiple/rileyclip.md)
 - [sex](voice%20multiple/sex.md)
-- [war](voice%20multiple/war.md)
-- [woo](voice%20multiple/woo.md)
+- [source](voice%20multiple/source.md)
+- [women](voice%20multiple/women.md)
