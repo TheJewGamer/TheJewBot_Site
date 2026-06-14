@@ -25,6 +25,8 @@ This command has multiple voice outputs. Entering a number after the command nam
 
  1. clock
  1. fearTime
+ 1. fiveMinutes
+ 1. sevenMinutes
  1. tiktok
  1. time
  1. waitingForThis

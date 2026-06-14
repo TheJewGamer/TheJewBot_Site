@@ -36,6 +36,7 @@ This command has multiple voice outputs. Entering a number after the command nam
  1. freebird
  1. got
  1. homedepot
+ 1. horizonDreamer
  1. jams
  1. kickstart
  1. krabs
@@ -47,6 +48,7 @@ This command has multiple voice outputs. Entering a number after the command nam
  1. montage
  1. more
  1. oceanMan
+ 1. parappa
  1. rich
  1. rules
  1. sickoMode

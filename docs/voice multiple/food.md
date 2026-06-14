@@ -37,6 +37,7 @@ This command has multiple voice outputs. Entering a number after the command nam
  1. hotsauce
  1. jam
  1. jellybeans
+ 1. lemons
  1. mayo
  1. mug
  1. olives
@@ -47,6 +48,7 @@ This command has multiple voice outputs. Entering a number after the command nam
  1. rustChocolate
  1. sangwich
  1. taco
+ 1. tomatoes
  1. wrongMayo
 
 ### Command Not Allowed in these Channels

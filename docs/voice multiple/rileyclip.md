@@ -36,6 +36,7 @@ This command has multiple voice outputs. Entering a number after the command nam
  1. guestBedroom
  1. harder
  1. iNeed
+ 1. iSaid
  1. jacobHelp
  1. speaking
  1. voicemail
