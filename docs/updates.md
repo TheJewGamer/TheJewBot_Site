@@ -13,15 +13,11 @@ Clicking on a command name will bring you to that command's page.
 
 ## New Commands
 
-- [amuse](voice/amuse.md)
-- [fahh](voice/fahh.md)
-- [hammer](voice/hammer.md)
-- [rock](voice/rock.md)
+- [old](voice/old.md)
 
 ## Updated Commands
 
-- [food](voice%20multiple/food.md)
-- [music](voice%20multiple/music.md)
-- [rileyclip](voice%20multiple/rileyclip.md)
-- [time](voice%20multiple/time.md)
-- [women](voice%20multiple/women.md)
+- [car](voice%20multiple/car.md)
+- [gun](voice%20multiple/gun.md)
+- [kyleclip](voice%20multiple/kyleclip.md)
+- [sex](voice%20multiple/sex.md)

@@ -31,6 +31,7 @@ This command has multiple voice outputs. Entering a number after the command nam
  1. math
  1. paper
  1. rude
+ 1. shot
  1. shotgun
  1. theyGotKyle
 

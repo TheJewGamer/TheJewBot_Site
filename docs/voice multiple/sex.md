@@ -37,6 +37,7 @@ This command has multiple voice outputs. Entering a number after the command nam
  1. rustCome
  1. rustFuckMe
  1. sex2
+ 1. stud
  1. turndown
  1. undercover
  1. virign
