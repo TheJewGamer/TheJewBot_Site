@@ -13,11 +13,9 @@ Clicking on a command name will bring you to that command's page.
 
 ## New Commands
 
-- [old](voice/old.md)
+- [carry](voice/carry.md)
+- [piss](voice/piss.md)
 
 ## Updated Commands
 
-- [car](voice%20multiple/car.md)
-- [gun](voice%20multiple/gun.md)
-- [kyleclip](voice%20multiple/kyleclip.md)
 - [sex](voice%20multiple/sex.md)
